@@ -1,0 +1,2490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DELHI.kml</name>
+	<visibility>0</visibility>
+	<Folder>
+		<name>DELHI</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">1</SimpleData>
+					<SimpleData name="AC_NAME">Nerela</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">70368.47507140000</SimpleData>
+					<SimpleData name="Shape_Area">139990631.81299999000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.05131016561622,28.8549158475261,0 77.06121198164792,28.87082005866884,0 77.07458475770459,28.86734271107387,0 77.08296510475307,28.88333816882258,0 77.0914591761741,28.87276031104194,0 77.11011643992212,28.86980907080284,0 77.12165928611164,28.85813693279295,0 77.13181226817802,28.86346443162275,0 77.14077400725782,28.8617485431162,0 77.14599787238149,28.837550172923,0 77.15767632636209,28.8370143891219,0 77.17486236855878,28.85903773756703,0 77.20894841568128,28.85849840131094,0 77.21663235902074,28.85204761596723,0 77.21635056331125,28.84149149306482,0 77.22260480018937,28.83337368959757,0 77.21848055027834,28.80877799552491,0 77.2008549560119,28.81136223262855,0 77.19953041826018,28.79770968381781,0 77.21389631814954,28.78548396940159,0 77.19910426731209,28.78059504287868,0 77.19004093557103,28.78510722217236,0 77.18958746003787,28.79042416026646,0 77.15620677454191,28.79474423131935,0 77.14030618360404,28.78773588384733,0 77.13986416006627,28.78010947074673,0 77.12366388116688,28.77450308230596,0 77.12330347459817,28.77112018966896,0 77.12977820947934,28.77284075314524,0 77.12838742854487,28.76821302932669,0 77.12215930433874,28.76671553741986,0 77.12004991690813,28.7568036358453,0 77.11357233991788,28.75266706001263,0 77.09112120538616,28.76692336462275,0 77.07387720361783,28.75747177362767,0 77.06922114333442,28.77540146542077,0 77.05830452849996,28.78537492999731,0 77.07031353500881,28.80416466191224,0 77.04261767787968,28.82253845202213,0 77.03974105917411,28.83207795941106,0 77.05131016561622,28.8549158475261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">7</SimpleData>
+					<SimpleData name="AC_NAME">Bawana (SC)</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">67703.36927570000</SimpleData>
+					<SimpleData name="Shape_Area">111004368.93799999000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.03974105917411,28.83207795941106,0 77.04261767787968,28.82253845202213,0 77.07031353500881,28.80416466191224,0 77.05830452849996,28.78537492999731,0 77.06922114333442,28.77540146542077,0 77.07387720361783,28.75747177362767,0 77.09112120538616,28.76692336462275,0 77.11357233991788,28.75266706001263,0 77.11860858041815,28.74811395628026,0 77.12055497525252,28.74488395954634,0 77.10143252208297,28.74605815538438,0 77.09213814881399,28.72399398532747,0 77.07265083766569,28.72053102537232,0 77.07133228882755,28.71464283243386,0 77.08116681769411,28.70450805804285,0 77.06923934449128,28.70692980946632,0 77.05484657043454,28.71410337027832,0 77.05020269167984,28.71884125294796,0 77.05361082808942,28.72578765003305,0 77.04889606648381,28.74188303240207,0 77.05150595887994,28.75427317490168,0 77.04311889550687,28.76512482069786,0 77.02506302899256,28.75088729933012,0 77.01423517376989,28.75482335322684,0 77.01075135819845,28.74496987192302,0 77.00653869598264,28.7484283054748,0 77.00380404615331,28.74406913152489,0 76.99498993133561,28.74618583670951,0 76.98375430252069,28.76019589273296,0 76.96974647915246,28.76112265918657,0 76.95998244031306,28.76748110721103,0 76.94974945146181,28.76253112516578,0 76.95585343679711,28.76741733289624,0 76.94912766530966,28.77806421086989,0 76.95365897029065,28.7906194469156,0 76.94206455137142,28.79849005496319,0 76.95122519637054,28.81766431466037,0 76.96189835320493,28.81493662233806,0 76.9673561307393,28.82799232328133,0 76.97979831501661,28.82159647417302,0 76.99410150308033,28.84020161448727,0 77.02337205768977,28.83904879237136,0 77.03974105917411,28.83207795941106,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">2</SimpleData>
+					<SimpleData name="AC_NAME">Burari</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">41779.85618510000</SimpleData>
+					<SimpleData name="Shape_Area">46695760.10939999700</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.21389631814954,28.78548396940159,0 77.21409330788644,28.78543940727714,0 77.21449013307729,28.76340378178597,0 77.23967420887595,28.73859834233758,0 77.24305252254884,28.72779614416993,0 77.23950195038732,28.71675749670892,0 77.23119627149369,28.71650970421599,0 77.22731156803276,28.72770505603654,0 77.22195697636275,28.72896031016717,0 77.21375725983707,28.72719164554603,0 77.21712141398504,28.71674029061964,0 77.2047552932419,28.71904652330342,0 77.18293035875696,28.7297448006451,0 77.16479217420402,28.73052034930828,0 77.16215930238812,28.73390446613598,0 77.16869777075407,28.7403028110969,0 77.16177398327692,28.74379101690782,0 77.17673729844691,28.7589287656376,0 77.12838742854487,28.76821302932669,0 77.12977820947934,28.77284075314524,0 77.12330347459817,28.77112018966896,0 77.12366388116688,28.77450308230596,0 77.13986416006627,28.78010947074673,0 77.14030618360404,28.78773588384733,0 77.15620677454191,28.79474423131935,0 77.18958746003787,28.79042416026646,0 77.19004093557103,28.78510722217236,0 77.19910426731209,28.78059504287868,0 77.21389631814954,28.78548396940159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">70</SimpleData>
+					<SimpleData name="AC_NAME">Karawal Nagar</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">32139.45622380000</SimpleData>
+					<SimpleData name="Shape_Area">24309599.35940000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.21409330788644,28.78543940727714,0 77.23332538653821,28.78410354675919,0 77.22174047555056,28.77782372414171,0 77.23569686206301,28.77116196463042,0 77.23527015698353,28.76112088858228,0 77.25618614248157,28.75607533046114,0 77.2557841335146,28.73894457151334,0 77.2612505132899,28.73425071968778,0 77.27577147151509,28.73578190161407,0 77.28654841309603,28.7245781477006,0 77.27430447743708,28.71248063258303,0 77.26894184461737,28.71459286050512,0 77.26729284573653,28.70375320749761,0 77.27157729101428,28.69964084439446,0 77.23680497171195,28.7067143762042,0 77.23950195038732,28.71675749670892,0 77.24305252254884,28.72779614416993,0 77.23967420887595,28.73859834233758,0 77.21449013307729,28.76340378178597,0 77.21409330788644,28.78543940727714,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">8</SimpleData>
+					<SimpleData name="AC_NAME">Mundka</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">64274.43664150000</SimpleData>
+					<SimpleData name="Shape_Area">91166667.76559999600</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							76.94974945146181,28.76253112516578,0 76.95998244031306,28.76748110721103,0 76.96974647915246,28.76112265918657,0 76.98375430252069,28.76019589273296,0 76.99498993133561,28.74618583670951,0 77.00380404615331,28.74406913152489,0 77.00653869598264,28.7484283054748,0 77.01075135819845,28.74496987192302,0 77.01423517376989,28.75482335322684,0 77.02506302899256,28.75088729933012,0 77.04311889550687,28.76512482069786,0 77.05150595887994,28.75427317490168,0 77.04889606648381,28.74188303240207,0 77.05361082808942,28.72578765003305,0 77.05020269167984,28.71884125294796,0 77.05484657043454,28.71410337027832,0 77.03661516429249,28.70457247130471,0 77.02688294711078,28.70546490179055,0 77.03532765106185,28.68828994792041,0 77.05504423884253,28.68460486413303,0 77.0708988576681,28.68278951063619,0 77.05952162667941,28.66988857182062,0 77.08455831330829,28.65468673140353,0 77.07455268186523,28.64743118486715,0 77.06076424597507,28.63863766462236,0 77.05661038919793,28.66022457547145,0 77.04822974343372,28.66133218006987,0 77.0419096008489,28.67396078798297,0 77.02656987381519,28.6697210717377,0 77.00825944843855,28.67188428010142,0 76.99518350489073,28.65339129330026,0 76.98864654494706,28.66785131761617,0 76.95672723230285,28.67259320356063,0 76.9577384238651,28.68401838998667,0 76.96844361050169,28.69922021781543,0 76.94828335828585,28.71275235887625,0 76.9599314294091,28.73264765157766,0 76.95590842179706,28.73884302800825,0 76.95853281390099,28.74343821187403,0 76.94423774837006,28.75382097204565,0 76.94974945146181,28.76253112516578,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">5</SimpleData>
+					<SimpleData name="AC_NAME">Badli</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">21320.81758050000</SimpleData>
+					<SimpleData name="Shape_Area">15110843.82810000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.12838742854487,28.76821302932669,0 77.17673729844691,28.7589287656376,0 77.16177398327692,28.74379101690782,0 77.16869777075407,28.7403028110969,0 77.16215930238812,28.73390446613598,0 77.16479217420402,28.73052034930828,0 77.153729522218,28.72943954293542,0 77.14709251054904,28.73664745302863,0 77.14125207853252,28.73289365935618,0 77.13669519926471,28.72996553390704,0 77.12858048239235,28.73046607977561,0 77.1368575397823,28.73914164829377,0 77.1276812158622,28.74860425533551,0 77.11860858041815,28.74811395628026,0 77.11357233991788,28.75266706001263,0 77.12004991690813,28.7568036358453,0 77.12215930433874,28.76671553741986,0 77.12838742854487,28.76821302932669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">13</SimpleData>
+					<SimpleData name="AC_NAME">Rohini</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">16277.20329420000</SimpleData>
+					<SimpleData name="Shape_Area">8138092.39063000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.11860858041815,28.74811395628026,0 77.1276812158622,28.74860425533551,0 77.1368575397823,28.73914164829377,0 77.12858048239235,28.73046607977561,0 77.13669519926471,28.72996553390704,0 77.12124217856109,28.70673769431871,0 77.11757168336769,28.7040332252126,0 77.10909005234694,28.7007431950445,0 77.09669418635411,28.71159249290112,0 77.116515167315,28.72762244776823,0 77.11379773730623,28.73001453641914,0 77.12450045146461,28.73893012668721,0 77.12055497525252,28.74488395954634,0 77.11860858041815,28.74811395628026,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">6</SimpleData>
+					<SimpleData name="AC_NAME">Rithala</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">17243.67222090000</SimpleData>
+					<SimpleData name="Shape_Area">10664499.37500000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.09669418635411,28.71159249290112,0 77.0924228198119,28.71152551986408,0 77.09570346478802,28.70436101203319,0 77.08537366429688,28.70192598106723,0 77.08116681769411,28.70450805804285,0 77.07133228882755,28.71464283243386,0 77.07265083766569,28.72053102537232,0 77.09213814881399,28.72399398532747,0 77.10143252208297,28.74605815538438,0 77.12055497525252,28.74488395954634,0 77.12450045146461,28.73893012668721,0 77.11379773730623,28.73001453641914,0 77.116515167315,28.72762244776823,0 77.09669418635411,28.71159249290112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">4</SimpleData>
+					<SimpleData name="AC_NAME">Adarsh Nagar</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">16232.59278300000</SimpleData>
+					<SimpleData name="Shape_Area">8854790.57812999930</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.14125207853252,28.73289365935618,0 77.14709251054904,28.73664745302863,0 77.153729522218,28.72943954293542,0 77.16479217420402,28.73052034930828,0 77.18293035875696,28.7297448006451,0 77.2047552932419,28.71904652330342,0 77.19257224646329,28.7184600399833,0 77.18490336434843,28.70943844223912,0 77.16679814732694,28.7105133696512,0 77.1648229099137,28.70661109217362,0 77.16282572547168,28.70911991400632,0 77.14125207853252,28.73289365935618,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">14</SimpleData>
+					<SimpleData name="AC_NAME">Shalimar Bagh</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">12015.22556650000</SimpleData>
+					<SimpleData name="Shape_Area">8697730.03125000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.13669519926471,28.72996553390704,0 77.14125207853252,28.73289365935618,0 77.16282572547168,28.70911991400632,0 77.14747470761726,28.70206798870591,0 77.14369103495353,28.6948619936747,0 77.12124217856109,28.70673769431871,0 77.13669519926471,28.72996553390704,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">3</SimpleData>
+					<SimpleData name="AC_NAME">Timarpur</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">24452.51782730000</SimpleData>
+					<SimpleData name="Shape_Area">16103406.25000000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.23950195038732,28.71675749670892,0 77.23680497171195,28.7067143762042,0 77.23570770698584,28.7002859726776,0 77.22835280185926,28.70166299106747,0 77.21049620357243,28.66584304516924,0 77.20290982604772,28.66995806232344,0 77.21071337023123,28.6777515052021,0 77.2037600938914,28.68701048767515,0 77.19625630542872,28.6827289413792,0 77.19423499595658,28.6874008178547,0 77.20119737259249,28.697754560359,0 77.18496845642717,28.70484090648629,0 77.18490336434843,28.70943844223912,0 77.19257224646329,28.7184600399833,0 77.2047552932419,28.71904652330342,0 77.21712141398504,28.71674029061964,0 77.21375725983707,28.72719164554603,0 77.22195697636275,28.72896031016717,0 77.22731156803276,28.72770505603654,0 77.23119627149369,28.71650970421599,0 77.23950195038732,28.71675749670892,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">69</SimpleData>
+					<SimpleData name="AC_NAME">Mustafabad</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">8658.85423571000</SimpleData>
+					<SimpleData name="Shape_Area">2981701.67187999980</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.28654841309603,28.7245781477006,0 77.29093765043481,28.72158103711618,0 77.28658476275848,28.71381847104483,0 77.27872980191036,28.69925834055481,0 77.27157729101428,28.69964084439446,0 77.26729284573653,28.70375320749761,0 77.26894184461737,28.71459286050512,0 77.27430447743708,28.71248063258303,0 77.28654841309603,28.7245781477006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">9</SimpleData>
+					<SimpleData name="AC_NAME">Kirari</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">12244.33499480000</SimpleData>
+					<SimpleData name="Shape_Area">7474592.57813000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.06923934449128,28.70692980946632,0 77.06678081645363,28.69827395178485,0 77.05742199299822,28.69608040750993,0 77.05504423884253,28.68460486413303,0 77.03532765106185,28.68828994792041,0 77.02688294711078,28.70546490179055,0 77.03661516429249,28.70457247130471,0 77.05484657043454,28.71410337027832,0 77.06923934449128,28.70692980946632,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">12</SimpleData>
+					<SimpleData name="AC_NAME">Mangol Puri (SC)</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">13287.48025680000</SimpleData>
+					<SimpleData name="Shape_Area">5742957.25000000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.08537366429688,28.70192598106723,0 77.09570346478802,28.70436101203319,0 77.0924228198119,28.71152551986408,0 77.09669418635411,28.71159249290112,0 77.10909005234694,28.7007431950445,0 77.097215590665,28.69449926394708,0 77.09506405162301,28.68155161572672,0 77.0712793889854,28.68287008391095,0 77.07370635941886,28.69228905818619,0 77.07780811820761,28.69274591570369,0 77.07282051837471,28.69573044195299,0 77.08490646365442,28.69791987200235,0 77.08537366429688,28.70192598106723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">18</SimpleData>
+					<SimpleData name="AC_NAME">Model Town</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">16060.31510310000</SimpleData>
+					<SimpleData name="Shape_Area">8609833.84375000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.1648229099137,28.70661109217362,0 77.16679814732694,28.7105133696512,0 77.18490336434843,28.70943844223912,0 77.18496845642717,28.70484090648629,0 77.20119737259249,28.697754560359,0 77.19423499595658,28.6874008178547,0 77.19625630542872,28.6827289413792,0 77.2037600938914,28.68701048767515,0 77.21071337023123,28.6777515052021,0 77.20290982604772,28.66995806232344,0 77.1846569033421,28.67841986814745,0 77.1648229099137,28.70661109217362,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">68</SimpleData>
+					<SimpleData name="AC_NAME">Gokalpur (SC)</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">14465.83212040000</SimpleData>
+					<SimpleData name="Shape_Area">6439632.57813000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.28658476275848,28.71381847104483,0 77.29651232034949,28.70432060522654,0 77.305599811957,28.71339215888131,0 77.3314425630625,28.71278712704056,0 77.3250283429756,28.70757579081611,0 77.32387270730001,28.69770547825806,0 77.30611204762985,28.69560840070731,0 77.29519941505718,28.69773492118621,0 77.27979841825174,28.69900318415172,0 77.27872980191036,28.69925834055481,0 77.28658476275848,28.71381847104483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">10</SimpleData>
+					<SimpleData name="AC_NAME">Sultan Pur Majra(SC)</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">10657.01106720000</SimpleData>
+					<SimpleData name="Shape_Area">3771234.46875000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.08116681769411,28.70450805804285,0 77.08537366429688,28.70192598106723,0 77.08490646365442,28.69791987200235,0 77.07282051837471,28.69573044195299,0 77.07780811820761,28.69274591570369,0 77.07370635941886,28.69228905818619,0 77.0712793889854,28.68287008391095,0 77.0708988576681,28.68278951063619,0 77.05504423884253,28.68460486413303,0 77.05742199299822,28.69608040750993,0 77.06678081645363,28.69827395178485,0 77.06923934449128,28.70692980946632,0 77.08116681769411,28.70450805804285,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">17</SimpleData>
+					<SimpleData name="AC_NAME">Wazirpur</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">12635.11373980000</SimpleData>
+					<SimpleData name="Shape_Area">8966474.81250000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.16282572547168,28.70911991400632,0 77.1648229099137,28.70661109217362,0 77.1846569033421,28.67841986814745,0 77.16246783308071,28.67185308474963,0 77.15923187235771,28.67352148949935,0 77.15316816848443,28.68605617269663,0 77.14563716104389,28.68474454604866,0 77.14369103495353,28.6948619936747,0 77.14747470761726,28.70206798870591,0 77.16282572547168,28.70911991400632,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">16</SimpleData>
+					<SimpleData name="AC_NAME">Tri Nagar</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">14849.62419160000</SimpleData>
+					<SimpleData name="Shape_Area">6983646.18750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.11757168336769,28.7040332252126,0 77.12124217856109,28.70673769431871,0 77.14369103495353,28.6948619936747,0 77.14563716104389,28.68474454604866,0 77.15316816848443,28.68605617269663,0 77.15923187235771,28.67352148949935,0 77.128539741754,28.67453099903421,0 77.13095224838729,28.67951409138742,0 77.12288458723621,28.67992625207357,0 77.12319898272168,28.69100043774171,0 77.12717204123065,28.68996551219751,0 77.1279457186666,28.69411850555094,0 77.11862902281905,28.70242070548708,0 77.11757168336769,28.7040332252126,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">15</SimpleData>
+					<SimpleData name="AC_NAME">Shakur Basti</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">17887.14768790000</SimpleData>
+					<SimpleData name="Shape_Area">11229122.32810000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.11862902281905,28.70242070548708,0 77.1279457186666,28.69411850555094,0 77.12717204123065,28.68996551219751,0 77.12319898272168,28.69100043774171,0 77.12288458723621,28.67992625207357,0 77.13095224838729,28.67951409138742,0 77.128539741754,28.67453099903421,0 77.11502960154071,28.67592137410084,0 77.11443800604384,28.66493704939167,0 77.11879914063714,28.6614869110824,0 77.11186912712478,28.65998548190217,0 77.10161267865834,28.65950357462913,0 77.09212795807477,28.65364406688174,0 77.09506405162301,28.68155161572672,0 77.097215590665,28.69449926394708,0 77.10909005234694,28.7007431950445,0 77.11757168336769,28.7040332252126,0 77.11862902281905,28.70242070548708,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">66</SimpleData>
+					<SimpleData name="AC_NAME">Ghonda</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">15066.20138010000</SimpleData>
+					<SimpleData name="Shape_Area">9526127.43750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.23570770698584,28.7002859726776,0 77.23680497171195,28.7067143762042,0 77.27157729101428,28.69964084439446,0 77.27872980191036,28.69925834055481,0 77.27979841825174,28.69900318415172,0 77.26794848923251,28.69675531120634,0 77.27404298249387,28.68277476993114,0 77.23493387477532,28.67570041498013,0 77.23570770698584,28.7002859726776,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">20</SimpleData>
+					<SimpleData name="AC_NAME">Chandni Chowk</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">21076.54223430000</SimpleData>
+					<SimpleData name="Shape_Area">11937126.54690000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.23493387477532,28.67570041498013,0 77.23651469062767,28.66822519018667,0 77.24669722478527,28.65998994015219,0 77.25602259408184,28.65260946157509,0 77.25173394482657,28.64549612347744,0 77.23903936834458,28.64493898191544,0 77.24074025888049,28.63994701766529,0 77.23067596929445,28.64628604208527,0 77.22775898672187,28.65360681728711,0 77.21866403894391,28.65576416558876,0 77.2182596979511,28.66012016371137,0 77.2270427166798,28.66219771853887,0 77.21501320868052,28.66104377887537,0 77.21049620357243,28.66584304516924,0 77.22835280185926,28.70166299106747,0 77.23570770698584,28.7002859726776,0 77.23493387477532,28.67570041498013,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">67</SimpleData>
+					<SimpleData name="AC_NAME">Babarpur</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">11471.92085880000</SimpleData>
+					<SimpleData name="Shape_Area">4888863.14063000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.29519941505718,28.69773492118621,0 77.29593640579444,28.6782780819091,0 77.28947930898283,28.68189582337924,0 77.28759181307261,28.67476981800429,0 77.27735444412538,28.67385018624849,0 77.28050192138952,28.68285342398611,0 77.27404298249387,28.68277476993114,0 77.26794848923251,28.69675531120634,0 77.27979841825174,28.69900318415172,0 77.29519941505718,28.69773492118621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">64</SimpleData>
+					<SimpleData name="AC_NAME">Rohtas Nagar</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">13544.45184480000</SimpleData>
+					<SimpleData name="Shape_Area">4608142.42188000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.30611204762985,28.69560840070731,0 77.303997280492,28.67213559905424,0 77.29916689644853,28.66821736441102,0 77.28053255675197,28.66722476703187,0 77.27305199479875,28.66800595413941,0 77.27901069687428,28.66935228316527,0 77.27735444412538,28.67385018624849,0 77.28759181307261,28.67476981800429,0 77.28947930898283,28.68189582337924,0 77.29593640579444,28.6782780819091,0 77.29519941505718,28.69773492118621,0 77.30611204762985,28.69560840070731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">63</SimpleData>
+					<SimpleData name="AC_NAME">Seemapuri (SC)</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">9670.94890915000</SimpleData>
+					<SimpleData name="Shape_Area">4697666.71875000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.30611204762985,28.69560840070731,0 77.32387270730001,28.69770547825806,0 77.32630531995788,28.69480141085629,0 77.33216504502687,28.68578078154627,0 77.303997280492,28.67213559905424,0 77.30611204762985,28.69560840070731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">11</SimpleData>
+					<SimpleData name="AC_NAME">Nangloi Jat</SimpleData>
+					<SimpleData name="PC_NO">5</SimpleData>
+					<SimpleData name="PC_NAME">NORTH WEST DELHI (SC)</SimpleData>
+					<SimpleData name="PC_ID">705</SimpleData>
+					<SimpleData name="Shape_Leng">11155.97096320000</SimpleData>
+					<SimpleData name="Shape_Area">7684848.04688000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.0712793889854,28.68287008391095,0 77.09506405162301,28.68155161572672,0 77.09212795807477,28.65364406688174,0 77.08455831330829,28.65468673140353,0 77.05952162667941,28.66988857182062,0 77.0708988576681,28.68278951063619,0 77.0712793889854,28.68287008391095,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">62</SimpleData>
+					<SimpleData name="AC_NAME">Shahdara</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">13740.10317230000</SimpleData>
+					<SimpleData name="Shape_Area">3890698.56250000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.303997280492,28.67213559905424,0 77.33216504502687,28.68578078154627,0 77.3334467907588,28.68102374819375,0 77.32385747441104,28.67713922855943,0 77.32137597748998,28.6643596539833,0 77.30402913486829,28.66420586117469,0 77.30214740187661,28.66771093646285,0 77.28634769326385,28.66063353081882,0 77.28053255675197,28.66722476703187,0 77.29916689644853,28.66821736441102,0 77.303997280492,28.67213559905424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">65</SimpleData>
+					<SimpleData name="AC_NAME">Seelam Pur</SimpleData>
+					<SimpleData name="PC_NO">2</SimpleData>
+					<SimpleData name="PC_NAME">NORTH EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">702</SimpleData>
+					<SimpleData name="Shape_Leng">11809.83234350000</SimpleData>
+					<SimpleData name="Shape_Area">6441722.18750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.27404298249387,28.68277476993114,0 77.28050192138952,28.68285342398611,0 77.27735444412538,28.67385018624849,0 77.27901069687428,28.66935228316527,0 77.27305199479875,28.66800595413941,0 77.24669722478527,28.65998994015219,0 77.23651469062767,28.66822519018667,0 77.23493387477532,28.67570041498013,0 77.27404298249387,28.68277476993114,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">35</SimpleData>
+					<SimpleData name="AC_NAME">Najafgarh</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">64959.96637780000</SimpleData>
+					<SimpleData name="Shape_Area">116476111.09400000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							76.95672723230285,28.67259320356063,0 76.98864654494706,28.66785131761617,0 76.99518350489073,28.65339129330026,0 77.00472665709033,28.63805662341624,0 76.99980832282125,28.63131541264974,0 76.99689645806529,28.61624842560947,0 77.01652877079225,28.61039250124362,0 77.01096504310465,28.60442276151051,0 77.01582106449571,28.59756716076656,0 77.01056845127393,28.59147161153266,0 76.98023507868902,28.59389058369996,0 76.96709149738194,28.5828273122152,0 76.95948763326632,28.58959713877137,0 76.94640374807524,28.59214772611417,0 76.93483034510282,28.58760219388397,0 76.92371949467116,28.5717487556219,0 76.93293695222612,28.56287699490663,0 76.90477146487689,28.55348677451148,0 76.90404255020339,28.54146650663314,0 76.88534505340144,28.54329335409671,0 76.87259112006574,28.53277965633065,0 76.86372100099474,28.5440737264273,0 76.84512615505203,28.55032353991227,0 76.83929608392428,28.58218307879182,0 76.86456443261189,28.58601385386233,0 76.88387194563205,28.62479970270238,0 76.88853772165518,28.63199326882243,0 76.90645289874934,28.62353284016984,0 76.91740792333036,28.63193802227062,0 76.93485792975082,28.61853800865054,0 76.94437255135969,28.63326726976414,0 76.92461065606238,28.64959558520701,0 76.93455858343383,28.66705949730221,0 76.95352049330862,28.66738708147818,0 76.95672723230285,28.67259320356063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">19</SimpleData>
+					<SimpleData name="AC_NAME">Sadar Bazar</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">16943.84496070000</SimpleData>
+					<SimpleData name="Shape_Area">6261203.81250000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.1846569033421,28.67841986814745,0 77.20290982604772,28.66995806232344,0 77.21049620357243,28.66584304516924,0 77.21501320868052,28.66104377887537,0 77.2270427166798,28.66219771853887,0 77.2182596979511,28.66012016371137,0 77.21866403894391,28.65576416558876,0 77.20460257525808,28.65744149993477,0 77.18547988637403,28.66252329968852,0 77.17897746350283,28.65732340872408,0 77.17444427104445,28.66116685101736,0 77.17781591083563,28.66399652782067,0 77.17294137748154,28.66466821578283,0 77.16246783308071,28.67185308474963,0 77.1846569033421,28.67841986814745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">31</SimpleData>
+					<SimpleData name="AC_NAME">Vikaspuri</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">30368.78246690000</SimpleData>
+					<SimpleData name="Shape_Area">29444273.14060000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.07455268186523,28.64743118486715,0 77.07768825880031,28.6407276039169,0 77.0865258895046,28.63913467227682,0 77.07897996908682,28.63273728138551,0 77.06633382504005,28.63607510368665,0 77.07477539699463,28.62724794114422,0 77.06163937584374,28.62276940146439,0 77.05872369045672,28.62792180136424,0 77.02266023874019,28.62505260064725,0 77.00769934693476,28.62274508103067,0 76.99980832282125,28.63131541264974,0 77.00472665709033,28.63805662341624,0 76.99518350489073,28.65339129330026,0 77.00825944843855,28.67188428010142,0 77.02656987381519,28.6697210717377,0 77.0419096008489,28.67396078798297,0 77.04822974343372,28.66133218006987,0 77.05661038919793,28.66022457547145,0 77.06076424597507,28.63863766462236,0 77.07455268186523,28.64743118486715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">26</SimpleData>
+					<SimpleData name="AC_NAME">Madipur (SC)</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">11149.56922480000</SimpleData>
+					<SimpleData name="Shape_Area">5594569.67188000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.128539741754,28.67453099903421,0 77.13787105886047,28.66837573912594,0 77.13279425344736,28.66105394551212,0 77.14046362613797,28.66028505334803,0 77.12944477129032,28.65062084162014,0 77.1214778971522,28.64708983745327,0 77.11346102621583,28.65257794318905,0 77.11186912712478,28.65998548190217,0 77.11879914063714,28.6614869110824,0 77.11443800604384,28.66493704939167,0 77.11502960154071,28.67592137410084,0 77.128539741754,28.67453099903421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">25</SimpleData>
+					<SimpleData name="AC_NAME">Moti Nagar</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">17852.00371530000</SimpleData>
+					<SimpleData name="Shape_Area">8284723.10938000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.16246783308071,28.67185308474963,0 77.17294137748154,28.66466821578283,0 77.15643231018559,28.65582410629252,0 77.13450330027304,28.63099839751141,0 77.13439350918766,28.63081379845902,0 77.13533971291517,28.64028829530346,0 77.12944477129032,28.65062084162014,0 77.14046362613797,28.66028505334803,0 77.13279425344736,28.66105394551212,0 77.13787105886047,28.66837573912594,0 77.128539741754,28.67453099903421,0 77.15923187235771,28.67352148949935,0 77.16246783308071,28.67185308474963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">61</SimpleData>
+					<SimpleData name="AC_NAME">Gandhi Nagar</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">9805.12312383000</SimpleData>
+					<SimpleData name="Shape_Area">4080621.34375000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.28053255675197,28.66722476703187,0 77.28634769326385,28.66063353081882,0 77.2863997669097,28.6604607147623,0 77.2829350596376,28.6553296065552,0 77.26976148209816,28.65724995062597,0 77.26458033351196,28.65165915296976,0 77.25620887287914,28.65236263897011,0 77.25602259408184,28.65260946157509,0 77.24669722478527,28.65998994015219,0 77.27305199479875,28.66800595413941,0 77.28053255675197,28.66722476703187,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">24</SimpleData>
+					<SimpleData name="AC_NAME">Patel Nagar (SC)</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">13099.74589140000</SimpleData>
+					<SimpleData name="Shape_Area">4620579.15625000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.18547988637403,28.66252329968852,0 77.18631785365167,28.65754495270738,0 77.17363865090928,28.65204367376795,0 77.18536297332709,28.64634561362915,0 77.18387933227497,28.64064093940511,0 77.1778490863891,28.63988986326521,0 77.16248368332023,28.64385964747159,0 77.15554478796175,28.64990329530497,0 77.15950543460785,28.65411866664465,0 77.15643231018559,28.65582410629252,0 77.17294137748154,28.66466821578283,0 77.17781591083563,28.66399652782067,0 77.17444427104445,28.66116685101736,0 77.17897746350283,28.65732340872408,0 77.18547988637403,28.66252329968852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">23</SimpleData>
+					<SimpleData name="AC_NAME">Karol Bagh (SC)</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">12998.86971060000</SimpleData>
+					<SimpleData name="Shape_Area">5456576.57813000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.18547988637403,28.66252329968852,0 77.20460257525808,28.65744149993477,0 77.20614773447861,28.64813445585031,0 77.21948112843997,28.64000446236284,0 77.21675597083282,28.63378338262093,0 77.20017397951901,28.64203808352001,0 77.18536297332709,28.64634561362915,0 77.17363865090928,28.65204367376795,0 77.18631785365167,28.65754495270738,0 77.18547988637403,28.66252329968852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">59</SimpleData>
+					<SimpleData name="AC_NAME">Vishwas Nagar</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">19396.06258490000</SimpleData>
+					<SimpleData name="Shape_Area">13144952.65630000100</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.28634769326385,28.66063353081882,0 77.30214740187661,28.66771093646285,0 77.30402913486829,28.66420586117469,0 77.32137597748998,28.6643596539833,0 77.32040283307984,28.65825862454661,0 77.31618958058436,28.64093807442742,0 77.33404200284346,28.62816386081557,0 77.3199124031533,28.62253297305589,0 77.30763967025827,28.62205322814885,0 77.29811544701221,28.63198224580785,0 77.29277859378686,28.6280256499101,0 77.28746343550718,28.62549421617988,0 77.28577772395255,28.63641317021684,0 77.29671295236213,28.64416673567903,0 77.2863997669097,28.6604607147623,0 77.28634769326385,28.66063353081882,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">27</SimpleData>
+					<SimpleData name="AC_NAME">Rajouri Garden</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">11580.88509210000</SimpleData>
+					<SimpleData name="Shape_Area">4817431.60938000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.11186912712478,28.65998548190217,0 77.11346102621583,28.65257794318905,0 77.1214778971522,28.64708983745327,0 77.12944477129032,28.65062084162014,0 77.13533971291517,28.64028829530346,0 77.12247581518315,28.6382322782905,0 77.11296889191158,28.64227764823603,0 77.09428708469785,28.64424884269148,0 77.09480489685798,28.65171887927227,0 77.10239488700162,28.65295685428889,0 77.10161267865834,28.65950357462913,0 77.11186912712478,28.65998548190217,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">29</SimpleData>
+					<SimpleData name="AC_NAME">Tilak Nagar</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">18294.03779760000</SimpleData>
+					<SimpleData name="Shape_Area">5668436.09375000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.09212795807477,28.65364406688174,0 77.10161267865834,28.65950357462913,0 77.10239488700162,28.65295685428889,0 77.09480489685798,28.65171887927227,0 77.09428708469785,28.64424884269148,0 77.11296889191158,28.64227764823603,0 77.11169039429137,28.6356079510837,0 77.10137538659414,28.63758595973463,0 77.08716597076378,28.63205571940506,0 77.07477539699463,28.62724794114422,0 77.06633382504005,28.63607510368665,0 77.07897996908682,28.63273728138551,0 77.0865258895046,28.63913467227682,0 77.07768825880031,28.6407276039169,0 77.07455268186523,28.64743118486715,0 77.08455831330829,28.65468673140353,0 77.09212795807477,28.65364406688174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">22</SimpleData>
+					<SimpleData name="AC_NAME">Ballimaran</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">8277.42649655000</SimpleData>
+					<SimpleData name="Shape_Area">2991595.48437999980</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.21866403894391,28.65576416558876,0 77.22775898672187,28.65360681728711,0 77.23067596929445,28.64628604208527,0 77.22186001699627,28.64519413230816,0 77.22112576978395,28.63987476944181,0 77.21948112843997,28.64000446236284,0 77.20614773447861,28.64813445585031,0 77.20460257525808,28.65744149993477,0 77.21866403894391,28.65576416558876,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">60</SimpleData>
+					<SimpleData name="AC_NAME">Krishna Nagar</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">11131.42411210000</SimpleData>
+					<SimpleData name="Shape_Area">5300248.65625000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.25620887287914,28.65236263897011,0 77.26458033351196,28.65165915296976,0 77.26976148209816,28.65724995062597,0 77.2829350596376,28.6553296065552,0 77.2863997669097,28.6604607147623,0 77.29671295236213,28.64416673567903,0 77.28577772395255,28.63641317021684,0 77.28193725938476,28.64102574777966,0 77.26315423947317,28.64202940743224,0 77.25620887287914,28.65236263897011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">39</SimpleData>
+					<SimpleData name="AC_NAME">Rajinder Nagar</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">24408.45687040000</SimpleData>
+					<SimpleData name="Shape_Area">17286953.60940000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.20017397951901,28.64203808352001,0 77.17175714110616,28.60261314716049,0 77.16017587468336,28.60265684893946,0 77.15760522168229,28.60838137660084,0 77.16572709180788,28.61992054944365,0 77.15421844149257,28.62599558904108,0 77.13974380028866,28.61778438351506,0 77.13450330027304,28.63099839751141,0 77.15643231018559,28.65582410629252,0 77.15950543460785,28.65411866664465,0 77.15554478796175,28.64990329530497,0 77.16248368332023,28.64385964747159,0 77.1778490863891,28.63988986326521,0 77.18387933227497,28.64064093940511,0 77.18536297332709,28.64634561362915,0 77.20017397951901,28.64203808352001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">41</SimpleData>
+					<SimpleData name="AC_NAME">Jangpura</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">25465.83720320000</SimpleData>
+					<SimpleData name="Shape_Area">16583232.68750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.25620887287914,28.65236263897011,0 77.26315423947317,28.64202940743224,0 77.25751347259163,28.61474370396348,0 77.2641665031595,28.59984460369337,0 77.27108428743746,28.58481052076423,0 77.26332156096198,28.57136191154617,0 77.25471884655883,28.563862492952,0 77.23875692013128,28.56770955704821,0 77.24904786616122,28.57719663085199,0 77.24499052814531,28.59116121474037,0 77.24872406442773,28.59236918919143,0 77.24255161058049,28.60272331311499,0 77.24459794231939,28.62313498586842,0 77.24074025888049,28.63994701766529,0 77.23903936834458,28.64493898191544,0 77.25173394482657,28.64549612347744,0 77.25602259408184,28.65260946157509,0 77.25620887287914,28.65236263897011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">21</SimpleData>
+					<SimpleData name="AC_NAME">Matia Mahal</SimpleData>
+					<SimpleData name="PC_NO">1</SimpleData>
+					<SimpleData name="PC_NAME">CHANDNI CHOWK</SimpleData>
+					<SimpleData name="PC_ID">701</SimpleData>
+					<SimpleData name="Shape_Leng">8484.38921023000</SimpleData>
+					<SimpleData name="Shape_Area">2973365.89062999980</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.22112576978395,28.63987476944181,0 77.22186001699627,28.64519413230816,0 77.23067596929445,28.64628604208527,0 77.24074025888049,28.63994701766529,0 77.24459794231939,28.62313498586842,0 77.22398399186491,28.63354331715946,0 77.22112576978395,28.63987476944181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">28</SimpleData>
+					<SimpleData name="AC_NAME">Hari Nagar</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">16304.16895640000</SimpleData>
+					<SimpleData name="Shape_Area">9151617.14062999930</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.13533971291517,28.64028829530346,0 77.13439350918766,28.63081379845902,0 77.11101020196715,28.60249760483684,0 77.10427773911168,28.60570295979512,0 77.10915768459066,28.61915099483807,0 77.10424136078417,28.624414933178,0 77.09620180316192,28.62202740634823,0 77.08716597076378,28.63205571940506,0 77.10137538659414,28.63758595973463,0 77.11169039429137,28.6356079510837,0 77.11296889191158,28.64227764823603,0 77.12247581518315,28.6382322782905,0 77.13533971291517,28.64028829530346,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">40</SimpleData>
+					<SimpleData name="AC_NAME">New Delhi</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">34992.35307850000</SimpleData>
+					<SimpleData name="Shape_Area">34392057.10939999700</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.22112576978395,28.63987476944181,0 77.22398399186491,28.63354331715946,0 77.24459794231939,28.62313498586842,0 77.24255161058049,28.60272331311499,0 77.24872406442773,28.59236918919143,0 77.24499052814531,28.59116121474037,0 77.22883181190703,28.5874711095882,0 77.22851703699689,28.57775849424329,0 77.21138173427137,28.57663690184902,0 77.21111020088418,28.57177591779029,0 77.22204529916593,28.57331768022088,0 77.21731947351231,28.56424354541239,0 77.21185326960841,28.55845333012396,0 77.20357893781059,28.55921655503975,0 77.20187194711508,28.56785916166675,0 77.19617358181101,28.56536785526731,0 77.19111463973147,28.56829004009855,0 77.19249644878542,28.57930397423197,0 77.20248564523872,28.58162618248273,0 77.1935715686227,28.6048114147843,0 77.16919907243047,28.59414730772129,0 77.16901143029003,28.59405902536217,0 77.17175714110616,28.60261314716049,0 77.20017397951901,28.64203808352001,0 77.21675597083282,28.63378338262093,0 77.21948112843997,28.64000446236284,0 77.22112576978395,28.63987476944181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">58</SimpleData>
+					<SimpleData name="AC_NAME">Laxmi Nagar</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">15543.64784250000</SimpleData>
+					<SimpleData name="Shape_Area">10931895.81250000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.26315423947317,28.64202940743224,0 77.28193725938476,28.64102574777966,0 77.28577772395255,28.63641317021684,0 77.28746343550718,28.62549421617988,0 77.29277859378686,28.6280256499101,0 77.29904341311696,28.62168089556901,0 77.28928754151231,28.6199707201232,0 77.28639188067777,28.60873950826629,0 77.28437484561104,28.61116005555865,0 77.2641665031595,28.59984460369337,0 77.25751347259163,28.61474370396348,0 77.26315423947317,28.64202940743224,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">34</SimpleData>
+					<SimpleData name="AC_NAME">Matiala</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">77166.16373250001</SimpleData>
+					<SimpleData name="Shape_Area">121655134.56299999000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							76.99980832282125,28.63131541264974,0 77.00769934693476,28.62274508103067,0 77.02266023874019,28.62505260064725,0 77.02303821786451,28.61941324461137,0 77.03332236950507,28.61436704199923,0 77.04555403536985,28.62067842382384,0 77.05440255282974,28.61953958758642,0 77.05837426179262,28.61627380290519,0 77.05401065766058,28.61331415251701,0 77.05519328026601,28.60754128835706,0 77.05507037386894,28.60275582561066,0 77.04362506509408,28.60084727566562,0 77.05791446869306,28.58759016766567,0 77.05128893767775,28.58117113769384,0 77.05926009096818,28.57606966413268,0 77.06567619780982,28.57342533812644,0 77.06770240073219,28.56670753711643,0 77.05858386595601,28.55060610539908,0 77.04137117122703,28.553038730042,0 77.02946443636142,28.56679149654304,0 77.01370287229651,28.53944720893918,0 77.00432407002437,28.54143225880115,0 76.99789154773389,28.53211816742387,0 77.01372787989908,28.52274910815564,0 77.00789353205617,28.51436489515939,0 76.99695166460006,28.51979326233127,0 76.99127965789745,28.51366697947773,0 76.97873687588894,28.52114814874905,0 76.95399208189762,28.50501879356868,0 76.94497739646569,28.50440954373678,0 76.93664614932386,28.51049959035638,0 76.92283285726056,28.50736826861127,0 76.90802372024531,28.51360376253187,0 76.89215122866204,28.50045554947725,0 76.885525473561,28.50095906862285,0 76.88031874643616,28.50586596570655,0 76.8872712073827,28.51989289255024,0 76.87675912914615,28.52489550315196,0 76.87259112006574,28.53277965633065,0 76.88534505340144,28.54329335409671,0 76.90404255020339,28.54146650663314,0 76.90477146487689,28.55348677451148,0 76.93293695222612,28.56287699490663,0 76.92371949467116,28.5717487556219,0 76.93483034510282,28.58760219388397,0 76.94640374807524,28.59214772611417,0 76.95948763326632,28.58959713877137,0 76.96709149738194,28.5828273122152,0 76.98023507868902,28.59389058369996,0 77.01056845127393,28.59147161153266,0 77.01582106449571,28.59756716076656,0 77.01096504310465,28.60442276151051,0 77.01652877079225,28.61039250124362,0 76.99689645806529,28.61624842560947,0 76.99980832282125,28.63131541264974,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">30</SimpleData>
+					<SimpleData name="AC_NAME">Janakpuri</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">15283.12381240000</SimpleData>
+					<SimpleData name="Shape_Area">6601885.17188000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.08716597076378,28.63205571940506,0 77.09620180316192,28.62202740634823,0 77.10424136078417,28.624414933178,0 77.10915768459066,28.61915099483807,0 77.10427773911168,28.60570295979512,0 77.0889575262899,28.61034636077017,0 77.0773343620625,28.60482565696754,0 77.07682289394498,28.60815517015449,0 77.08321487743287,28.61193618751393,0 77.08251261594347,28.61736376569048,0 77.06890698570331,28.62038315334137,0 77.06105151833209,28.61770352293343,0 77.06163937584374,28.62276940146439,0 77.07477539699463,28.62724794114422,0 77.08716597076378,28.63205571940506,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">38</SimpleData>
+					<SimpleData name="AC_NAME">Delhi Cantt</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">46042.19087310000</SimpleData>
+					<SimpleData name="Shape_Area">55328324.54689999700</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								77.1935715686227,28.6048114147843,0 77.20248564523872,28.58162618248273,0 77.19249644878542,28.57930397423197,0 77.19111463973147,28.56829004009855,0 77.18137036974298,28.57088011769028,0 77.16919907243047,28.59414730772129,0 77.1935715686227,28.6048114147843,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								77.13974380028866,28.61778438351506,0 77.15421844149257,28.62599558904108,0 77.16572709180788,28.61992054944365,0 77.15760522168229,28.60838137660084,0 77.16017587468336,28.60265684893946,0 77.17175714110616,28.60261314716049,0 77.16901143029003,28.59405902536217,0 77.16085200832677,28.57430407487335,0 77.15450240524432,28.57269556909116,0 77.15295711909083,28.55622881068728,0 77.1341216094817,28.55474190143545,0 77.13125477763147,28.54940662639864,0 77.11712056365911,28.54089497810108,0 77.10592983059127,28.54522147120059,0 77.10167684117077,28.55248647527,0 77.08080713626617,28.55067831222662,0 77.07448593177091,28.5600196390263,0 77.08446281144661,28.57239470305302,0 77.10365688531073,28.59390878354773,0 77.11101020196715,28.60249760483684,0 77.13439350918766,28.63081379845902,0 77.13450330027304,28.63099839751141,0 77.13974380028866,28.61778438351506,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">32</SimpleData>
+					<SimpleData name="AC_NAME">Uttam Nagar</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">17802.92098480000</SimpleData>
+					<SimpleData name="Shape_Area">6032731.98438000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.06163937584374,28.62276940146439,0 77.06105151833209,28.61770352293343,0 77.06890698570331,28.62038315334137,0 77.08251261594347,28.61736376569048,0 77.08321487743287,28.61193618751393,0 77.07682289394498,28.60815517015449,0 77.06730268968488,28.60757429126839,0 77.05519328026601,28.60754128835706,0 77.05401065766058,28.61331415251701,0 77.05837426179262,28.61627380290519,0 77.05440255282974,28.61953958758642,0 77.04555403536985,28.62067842382384,0 77.03332236950507,28.61436704199923,0 77.02303821786451,28.61941324461137,0 77.02266023874019,28.62505260064725,0 77.05872369045672,28.62792180136424,0 77.06163937584374,28.62276940146439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">57</SimpleData>
+					<SimpleData name="AC_NAME">Patparganj</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">16784.15578830000</SimpleData>
+					<SimpleData name="Shape_Area">5518523.18750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.29277859378686,28.6280256499101,0 77.29811544701221,28.63198224580785,0 77.30763967025827,28.62205322814885,0 77.3199124031533,28.62253297305589,0 77.321915670023,28.61808121093846,0 77.31243224809354,28.61269810635278,0 77.31431618733137,28.60972497978788,0 77.2964826608812,28.61115955475878,0 77.29854380245743,28.58866462718983,0 77.28639188067777,28.60873950826629,0 77.28928754151231,28.6199707201232,0 77.29904341311696,28.62168089556901,0 77.29277859378686,28.6280256499101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">56</SimpleData>
+					<SimpleData name="AC_NAME">Kondli (SC)</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">12964.03707130000</SimpleData>
+					<SimpleData name="Shape_Area">5951446.26563000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.33404200284346,28.62816386081557,0 77.34243613791841,28.62221697217272,0 77.34116271753169,28.6052412043198,0 77.31260036283608,28.59545205546244,0 77.32478094244641,28.60985532155618,0 77.31431618733137,28.60972497978788,0 77.31243224809354,28.61269810635278,0 77.321915670023,28.61808121093846,0 77.3199124031533,28.62253297305589,0 77.33404200284346,28.62816386081557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">33</SimpleData>
+					<SimpleData name="AC_NAME">Dwarka</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">WEST DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">13929.06339230000</SimpleData>
+					<SimpleData name="Shape_Area">6376879.68750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.06730268968488,28.60757429126839,0 77.07682289394498,28.60815517015449,0 77.0773343620625,28.60482565696754,0 77.0889575262899,28.61034636077017,0 77.10427773911168,28.60570295979512,0 77.11101020196715,28.60249760483684,0 77.10365688531073,28.59390878354773,0 77.09620200204118,28.5967176588129,0 77.08972647684139,28.58367617909957,0 77.08454782052318,28.58477406157973,0 77.0821239177313,28.58835220473255,0 77.08662360255035,28.59000065609314,0 77.07946406458088,28.59066333901973,0 77.0699264614955,28.60094411751888,0 77.06469890789703,28.59964900566377,0 77.06730268968488,28.60757429126839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">37</SimpleData>
+					<SimpleData name="AC_NAME">Palam</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">21649.16499470000</SimpleData>
+					<SimpleData name="Shape_Area">9030111.25000000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.05519328026601,28.60754128835706,0 77.06730268968488,28.60757429126839,0 77.06469890789703,28.59964900566377,0 77.0699264614955,28.60094411751888,0 77.07946406458088,28.59066333901973,0 77.08662360255035,28.59000065609314,0 77.0821239177313,28.58835220473255,0 77.08454782052318,28.58477406157973,0 77.08972647684139,28.58367617909957,0 77.09620200204118,28.5967176588129,0 77.10365688531073,28.59390878354773,0 77.08446281144661,28.57239470305302,0 77.07401087567736,28.58316405121226,0 77.06628714259479,28.58331309562218,0 77.05926009096818,28.57606966413268,0 77.05128893767775,28.58117113769384,0 77.05791446869306,28.58759016766567,0 77.04362506509408,28.60084727566562,0 77.05507037386894,28.60275582561066,0 77.05519328026601,28.60754128835706,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">55</SimpleData>
+					<SimpleData name="AC_NAME">Trilokpuri (SC)</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">23636.34915080000</SimpleData>
+					<SimpleData name="Shape_Area">15314594.26560000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.2641665031595,28.59984460369337,0 77.28437484561104,28.61116005555865,0 77.28639188067777,28.60873950826629,0 77.29854380245743,28.58866462718983,0 77.2964826608812,28.61115955475878,0 77.31431618733137,28.60972497978788,0 77.32478094244641,28.60985532155618,0 77.31260036283608,28.59545205546244,0 77.2984987041748,28.58061225748476,0 77.2967883088395,28.56618487764531,0 77.30041506039395,28.56309330785811,0 77.27962064761343,28.56813961282365,0 77.27108428743746,28.58481052076423,0 77.2641665031595,28.59984460369337,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">44</SimpleData>
+					<SimpleData name="AC_NAME">R.K. Puram</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">16422.56284500000</SimpleData>
+					<SimpleData name="Shape_Area">10800685.42190000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.16919907243047,28.59414730772129,0 77.18137036974298,28.57088011769028,0 77.19111463973147,28.56829004009855,0 77.19617358181101,28.56536785526731,0 77.1832211339606,28.55044572545518,0 77.17562353674536,28.54820826071586,0 77.16839629172846,28.55169518865505,0 77.16246389423986,28.54423224365736,0 77.15738532354251,28.54829327752056,0 77.16027185497345,28.55221519114305,0 77.15295711909083,28.55622881068728,0 77.15450240524432,28.57269556909116,0 77.16085200832677,28.57430407487335,0 77.16901143029003,28.59405902536217,0 77.16919907243047,28.59414730772129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">42</SimpleData>
+					<SimpleData name="AC_NAME">Kasturba Nagar</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">21554.76817700000</SimpleData>
+					<SimpleData name="Shape_Area">9989713.34375000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.24499052814531,28.59116121474037,0 77.24904786616122,28.57719663085199,0 77.23875692013128,28.56770955704821,0 77.25471884655883,28.563862492952,0 77.25402618893787,28.55657746412005,0 77.24724229743761,28.55340858134822,0 77.23274697725829,28.5570578540007,0 77.22953217928222,28.55130106987107,0 77.21277563344903,28.54826565813578,0 77.22333714051089,28.55758622820018,0 77.21731947351231,28.56424354541239,0 77.22204529916593,28.57331768022088,0 77.21111020088418,28.57177591779029,0 77.21138173427137,28.57663690184902,0 77.22851703699689,28.57775849424329,0 77.22883181190703,28.5874711095882,0 77.24499052814531,28.59116121474037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">36</SimpleData>
+					<SimpleData name="AC_NAME">Bijwasan</SimpleData>
+					<SimpleData name="PC_NO">6</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">706</SimpleData>
+					<SimpleData name="Shape_Leng">42946.90978420000</SimpleData>
+					<SimpleData name="Shape_Area">38884666.93750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.05926009096818,28.57606966413268,0 77.06628714259479,28.58331309562218,0 77.07401087567736,28.58316405121226,0 77.08446281144661,28.57239470305302,0 77.07448593177091,28.5600196390263,0 77.08080713626617,28.55067831222662,0 77.10167684117077,28.55248647527,0 77.10592983059127,28.54522147120059,0 77.11712056365911,28.54089497810108,0 77.13125477763147,28.54940662639864,0 77.13163468221914,28.5360840758187,0 77.11904940539132,28.53667220327755,0 77.1148457474261,28.52583872013125,0 77.1081802212999,28.53283508532239,0 77.094345842536,28.50593550886719,0 77.09623268089364,28.5110558612947,0 77.06948540607127,28.5202014814937,0 77.06461096329893,28.51202351812994,0 77.04391164622933,28.51671431936586,0 77.04619692150784,28.52075302259523,0 77.01370287229651,28.53944720893918,0 77.02946443636142,28.56679149654304,0 77.04137117122703,28.553038730042,0 77.05858386595601,28.55060610539908,0 77.06770240073219,28.56670753711643,0 77.06567619780982,28.57342533812644,0 77.05926009096818,28.57606966413268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">54</SimpleData>
+					<SimpleData name="AC_NAME">Okhla</SimpleData>
+					<SimpleData name="PC_NO">3</SimpleData>
+					<SimpleData name="PC_NAME">EAST DELHI</SimpleData>
+					<SimpleData name="PC_ID">703</SimpleData>
+					<SimpleData name="Shape_Leng">23971.96062940000</SimpleData>
+					<SimpleData name="Shape_Area">17468860.04690000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.26332156096198,28.57136191154617,0 77.27108428743746,28.58481052076423,0 77.27962064761343,28.56813961282365,0 77.30041506039395,28.56309330785811,0 77.30295102170338,28.5529942531646,0 77.33579357355796,28.52606362225622,0 77.32169613473855,28.52150647600242,0 77.29777907530517,28.52183992600788,0 77.29311499849851,28.52882475259297,0 77.281949873963,28.52730150816617,0 77.2767351160351,28.54020560648091,0 77.2857228857371,28.54387903212034,0 77.26332156096198,28.57136191154617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">51</SimpleData>
+					<SimpleData name="AC_NAME">Kalkaji</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">19468.06529150000</SimpleData>
+					<SimpleData name="Shape_Area">8885833.93750000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.26332156096198,28.57136191154617,0 77.2857228857371,28.54387903212034,0 77.2767351160351,28.54020560648091,0 77.27477975477292,28.54434442063055,0 77.26832967472416,28.54039693065314,0 77.26932536523165,28.52190443071266,0 77.26521771741251,28.52579808342106,0 77.25806967794318,28.52185912520437,0 77.2559599807585,28.52254211232606,0 77.2571242820771,28.53033489490212,0 77.24622015039442,28.54007194839014,0 77.25502538369992,28.54336537952213,0 77.25666269213149,28.54846901098233,0 77.24724229743761,28.55340858134822,0 77.25402618893787,28.55657746412005,0 77.25471884655883,28.563862492952,0 77.26332156096198,28.57136191154617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">43</SimpleData>
+					<SimpleData name="AC_NAME">Malviya Nagar</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">18710.60446610000</SimpleData>
+					<SimpleData name="Shape_Area">12421909.56250000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.21731947351231,28.56424354541239,0 77.22333714051089,28.55758622820018,0 77.21277563344903,28.54826565813578,0 77.2096187907641,28.53917833638143,0 77.21777855777619,28.53537790161335,0 77.2180888459975,28.52578645751542,0 77.21606925524053,28.52503058228599,0 77.18458778347114,28.52598957747209,0 77.1764134731896,28.53903076852054,0 77.1832211339606,28.55044572545518,0 77.19617358181101,28.56536785526731,0 77.20187194711508,28.56785916166675,0 77.20357893781059,28.55921655503975,0 77.21185326960841,28.55845333012396,0 77.21731947351231,28.56424354541239,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">45</SimpleData>
+					<SimpleData name="AC_NAME">Mehrauli</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">41509.43964590000</SimpleData>
+					<SimpleData name="Shape_Area">41026647.96880000100</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.15295711909083,28.55622881068728,0 77.16027185497345,28.55221519114305,0 77.15738532354251,28.54829327752056,0 77.16246389423986,28.54423224365736,0 77.16839629172846,28.55169518865505,0 77.17562353674536,28.54820826071586,0 77.1832211339606,28.55044572545518,0 77.1764134731896,28.53903076852054,0 77.18458778347114,28.52598957747209,0 77.21606925524053,28.52503058228599,0 77.21401316837887,28.52086830073827,0 77.20364626430659,28.51953557188393,0 77.2038246817304,28.51490796126437,0 77.19567884927869,28.49731445432596,0 77.18664578581227,28.5102045585158,0 77.17300526712506,28.50378669701386,0 77.14632890398971,28.50898191571815,0 77.14001513548531,28.50022773094168,0 77.12843127943997,28.50051201471469,0 77.11694580647259,28.49037771758333,0 77.11840011559791,28.49654256405989,0 77.094345842536,28.50593550886719,0 77.1081802212999,28.53283508532239,0 77.1148457474261,28.52583872013125,0 77.11904940539132,28.53667220327755,0 77.13163468221914,28.5360840758187,0 77.13125477763147,28.54940662639864,0 77.1341216094817,28.55474190143545,0 77.15295711909083,28.55622881068728,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">50</SimpleData>
+					<SimpleData name="AC_NAME">Greater Kailash</SimpleData>
+					<SimpleData name="PC_NO">4</SimpleData>
+					<SimpleData name="PC_NAME">NEW DELHI</SimpleData>
+					<SimpleData name="PC_ID">704</SimpleData>
+					<SimpleData name="Shape_Leng">18092.46795200000</SimpleData>
+					<SimpleData name="Shape_Area">12598131.25000000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.21277563344903,28.54826565813578,0 77.22953217928222,28.55130106987107,0 77.23274697725829,28.5570578540007,0 77.24724229743761,28.55340858134822,0 77.25666269213149,28.54846901098233,0 77.25502538369992,28.54336537952213,0 77.24622015039442,28.54007194839014,0 77.2571242820771,28.53033489490212,0 77.2559599807585,28.52254211232606,0 77.24607564950213,28.51366789397543,0 77.24199697216223,28.51940678599787,0 77.23129417887998,28.52608795284059,0 77.2180888459975,28.52578645751542,0 77.21777855777619,28.53537790161335,0 77.2096187907641,28.53917833638143,0 77.21277563344903,28.54826565813578,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">52</SimpleData>
+					<SimpleData name="AC_NAME">Tughlakabad</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">17456.92118610000</SimpleData>
+					<SimpleData name="Shape_Area">11795641.75000000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.2767351160351,28.54020560648091,0 77.281949873963,28.52730150816617,0 77.29578190557757,28.49564471403858,0 77.27662755353282,28.49305420641936,0 77.25524963927765,28.5064605663457,0 77.25806967794318,28.52185912520437,0 77.26521771741251,28.52579808342106,0 77.26932536523165,28.52190443071266,0 77.26832967472416,28.54039693065314,0 77.27477975477292,28.54434442063055,0 77.2767351160351,28.54020560648091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">48</SimpleData>
+					<SimpleData name="AC_NAME">Ambedkar Nagar(SC)</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">14151.45061070000</SimpleData>
+					<SimpleData name="Shape_Area">7375822.29688000030</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.23129417887998,28.52608795284059,0 77.22812073181868,28.51795479692454,0 77.2388154541492,28.51438971764553,0 77.22817370389215,28.49635625740994,0 77.2041184802615,28.49748145171331,0 77.21269375394945,28.50742306664779,0 77.21174370546309,28.51293854853506,0 77.2038246817304,28.51490796126437,0 77.20364626430659,28.51953557188393,0 77.21401316837887,28.52086830073827,0 77.21606925524053,28.52503058228599,0 77.2180888459975,28.52578645751542,0 77.23129417887998,28.52608795284059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">53</SimpleData>
+					<SimpleData name="AC_NAME">Badarpur</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">18457.37920370000</SimpleData>
+					<SimpleData name="Shape_Area">16738843.85940000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.281949873963,28.52730150816617,0 77.29311499849851,28.52882475259297,0 77.29777907530517,28.52183992600788,0 77.32169613473855,28.52150647600242,0 77.33579357355796,28.52606362225622,0 77.34329259961108,28.51052806615579,0 77.32686080100034,28.49021649972853,0 77.31714469147843,28.4849540062731,0 77.30172259857092,28.48948193615359,0 77.29578190557757,28.49564471403858,0 77.281949873963,28.52730150816617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">47</SimpleData>
+					<SimpleData name="AC_NAME">Deoli (SC)</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">22954.60780280000</SimpleData>
+					<SimpleData name="Shape_Area">13370364.73440000000</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.24199697216223,28.51940678599787,0 77.24607564950213,28.51366789397543,0 77.23877477502832,28.50778208311724,0 77.2383025915458,28.47572852477834,0 77.23097236896295,28.46017052301628,0 77.20242049845868,28.47384666169492,0 77.2041184802615,28.49748145171331,0 77.22817370389215,28.49635625740994,0 77.2388154541492,28.51438971764553,0 77.22812073181868,28.51795479692454,0 77.23129417887998,28.52608795284059,0 77.24199697216223,28.51940678599787,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">49</SimpleData>
+					<SimpleData name="AC_NAME">Sangam Vihar</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">16016.06095570000</SimpleData>
+					<SimpleData name="Shape_Area">8923116.04687999930</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.2559599807585,28.52254211232606,0 77.25806967794318,28.52185912520437,0 77.25524963927765,28.5064605663457,0 77.27662755353282,28.49305420641936,0 77.27186089842127,28.48636363897965,0 77.2383025915458,28.47572852477834,0 77.23877477502832,28.50778208311724,0 77.24607564950213,28.51366789397543,0 77.2559599807585,28.52254211232606,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#allac">
+					<SimpleData name="ST_CODE">07</SimpleData>
+					<SimpleData name="ST_NAME">DELHI</SimpleData>
+					<SimpleData name="AC_NO">46</SimpleData>
+					<SimpleData name="AC_NAME">Chhatarpur</SimpleData>
+					<SimpleData name="PC_NO">7</SimpleData>
+					<SimpleData name="PC_NAME">SOUTH DELHI</SimpleData>
+					<SimpleData name="PC_ID">707</SimpleData>
+					<SimpleData name="Shape_Leng">48387.04971640000</SimpleData>
+					<SimpleData name="Shape_Area">95832408.60940000400</SimpleData>
+					<SimpleData name="MaxSimpTol">300.00000000000</SimpleData>
+					<SimpleData name="MinSimpTol">300.00000000000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.2038246817304,28.51490796126437,0 77.21174370546309,28.51293854853506,0 77.21269375394945,28.50742306664779,0 77.2041184802615,28.49748145171331,0 77.20242049845868,28.47384666169492,0 77.23097236896295,28.46017052301628,0 77.23204748454907,28.45464449165282,0 77.23987050233056,28.45629438752431,0 77.24409761213563,28.45273504839909,0 77.24665806110031,28.43335048788383,0 77.25033941192325,28.43301279554523,0 77.24742328494199,28.42452619139585,0 77.22172146355929,28.4118321494177,0 77.20591923526197,28.40937883991144,0 77.18810134094071,28.40690893684512,0 77.18163695901312,28.40998853787709,0 77.17358935467604,28.40548512883071,0 77.16312658314079,28.41479553989684,0 77.16093742590833,28.42834326512289,0 77.12210782223552,28.44496807625626,0 77.11956104115028,28.45836841221297,0 77.10852275033912,28.47133127245504,0 77.11139409468996,28.47459783286428,0 77.11694580647259,28.49037771758333,0 77.12843127943997,28.50051201471469,0 77.14001513548531,28.50022773094168,0 77.14632890398971,28.50898191571815,0 77.17300526712506,28.50378669701386,0 77.18664578581227,28.5102045585158,0 77.19567884927869,28.49731445432596,0 77.2038246817304,28.51490796126437,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Schema name="allac" id="allac">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ST_CODE" type="string"></SimpleField>
+	<SimpleField name="ST_NAME" type="string"></SimpleField>
+	<SimpleField name="DT_CODE" type="string"></SimpleField>
+	<SimpleField name="DIST_NAME" type="string"></SimpleField>
+	<SimpleField name="AC_NO" type="int"></SimpleField>
+	<SimpleField name="AC_NAME" type="string"></SimpleField>
+	<SimpleField name="PC_NO" type="int"></SimpleField>
+	<SimpleField name="PC_NAME" type="string"></SimpleField>
+	<SimpleField name="PC_ID" type="int"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+	<SimpleField name="STATUS" type="string"></SimpleField>
+	<SimpleField name="MaxSimpTol" type="float"></SimpleField>
+	<SimpleField name="MinSimpTol" type="float"></SimpleField>
+</Schema>
+	</Folder>
+</Document>
+</kml>
