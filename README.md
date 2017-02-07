@@ -11,4 +11,4 @@ You'll find a few different file types which can be used to make maps with diffe
 ##Sources##
 - **city/mumbai/ward** City wards (administrative units). Source: Traced with QGIS from a [BMC Elections map](http://www.bmcelections.com/wards-in-mumbai/).
 - **state_ut/[state/ut_name]/assembly** Assembly constituencies, including Andhra Pradesh before the 2014 Telangana split. Source: [Election Commission of India](http://psleci.nic.in/). [View the scraper's repo](https://github.com/HindustanTimesLabs/eci-shape-scrape).
-- **state_ut/[state/uttarpradesh/parliament AND district** Parliamentary (Lok Sabha) and district boundaries of Uttar Pradesh. Source: Election Commission of India, [Shristi(GIS-UP)](http://gis.up.nic.in/srishti/election2017/). [View the scraper's repo](https://github.com/HindustanTimesLabs/up-shape-scrape).
+- **state_ut/uttarpradesh/parliament AND district** Parliamentary (Lok Sabha) and district boundaries of Uttar Pradesh. Source: Election Commission of India, [Shristi(GIS-UP)](http://gis.up.nic.in/srishti/election2017/). [View the scraper's repo](https://github.com/HindustanTimesLabs/up-shape-scrape).
