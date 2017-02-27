@@ -15,6 +15,7 @@ You'll find a few different file types which can be used to make maps with diffe
 - **state_ut/[state or ut other than uttar pradesh]/parliament** Parliamentary (Lok Sabha) boundaries for Indian states and union territories. Source: [Election Commission of India](http://eci.nic.in/eci_main/GisLayers/GIS_PC_Data.zip). [View the scraper's repo](https://github.com/HindustanTimesLabs/parliament-shape-scrape).
 - **state_ut/[state or ut other than uttar pradesh]/district** District boundaries for the 2011 Census for Indian state and union territories. Source: [DataMeet](https://github.com/datameet/maps/tree/master/Districts/Census_2011).
 - **india/district/india_2011_district.ext** - Administrive districts of India as of the 2011 Census. Source: [DataMeet](https://github.com/datameet/maps/tree/master/Districts/Census_2011).
+- **india/state_ut/india_2014_state.ext** - Indian states and union territories after 2014 creating of Telangana from Andhra Pradesh. Source: [Datameet](https://github.com/datameet/maps/tree/master/Survey-of-India-Index-Maps/Boundaries).
 
 ##Disclaimer##
 Though we have attempted to gather these files from the most reliable sources available, we do not guarantee their accuracy. You use these files at your own risk. 
