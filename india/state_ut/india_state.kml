@@ -108,9 +108,6 @@
 			</Pair>
 		</StyleMap>
 		<Style id='Style2-multi_geometry-4'>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
 			<IconStyle>
 				<color>ff0000ff</color>
 				<scale>1.0</scale>
@@ -126,43 +123,15 @@
 				<text>$[description]</text>
 			</BalloonStyle>
 		</Style>
-		<Style id='Style2-multi_geometry-4-hover'>
-			<IconStyle>
-				<color>ff0000ff</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				</Icon>
-			</IconStyle>
-			<LineStyle>
-				<color>800000ff</color>
-				<width>2</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text>$[description]</text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='Style2-multi_geometry-4-map'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#Style2-multi_geometry-4</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#Style2-multi_geometry-4-hover</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 1<br>
+<b>id:</b> 1<br>
 <b>st_nm:</b> Andaman &amp; Nicobar Island
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>1</value>
 				</Data>
 				<Data name='st_nm'>
@@ -172,14 +141,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 2<br>
+<b>id:</b> 2<br>
 <b>st_nm:</b> Andhra Pradesh
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>2</value>
 				</Data>
 				<Data name='st_nm'>
@@ -189,14 +156,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 3<br>
+<b>id:</b> 3<br>
 <b>st_nm:</b> Arunanchal Pradesh
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>3</value>
 				</Data>
 				<Data name='st_nm'>
@@ -206,14 +171,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 4<br>
+<b>id:</b> 4<br>
 <b>st_nm:</b> Assam
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>4</value>
 				</Data>
 				<Data name='st_nm'>
@@ -223,14 +186,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 5<br>
+<b>id:</b> 5<br>
 <b>st_nm:</b> Bihar
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>5</value>
 				</Data>
 				<Data name='st_nm'>
@@ -240,14 +201,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 6<br>
+<b>id:</b> 6<br>
 <b>st_nm:</b> Chandigarh
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>6</value>
 				</Data>
 				<Data name='st_nm'>
@@ -257,14 +216,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 7<br>
+<b>id:</b> 7<br>
 <b>st_nm:</b> Chhattisgarh
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>7</value>
 				</Data>
 				<Data name='st_nm'>
@@ -274,14 +231,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 11<br>
+<b>id:</b> 11<br>
 <b>st_nm:</b> Gujarat
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>11</value>
 				</Data>
 				<Data name='st_nm'>
@@ -291,14 +246,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 12<br>
+<b>id:</b> 12<br>
 <b>st_nm:</b> Haryana
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>12</value>
 				</Data>
 				<Data name='st_nm'>
@@ -308,14 +261,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 13<br>
+<b>id:</b> 13<br>
 <b>st_nm:</b> Himachal Pradesh
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>13</value>
 				</Data>
 				<Data name='st_nm'>
@@ -325,14 +276,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 19<br>
+<b>id:</b> 19<br>
 <b>st_nm:</b> Madhya Pradesh
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>19</value>
 				</Data>
 				<Data name='st_nm'>
@@ -342,14 +291,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 20<br>
+<b>id:</b> 20<br>
 <b>st_nm:</b> Maharashtra
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>20</value>
 				</Data>
 				<Data name='st_nm'>
@@ -359,14 +306,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 33<br>
+<b>id:</b> 33<br>
 <b>st_nm:</b> Uttar Pradesh
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>33</value>
 				</Data>
 				<Data name='st_nm'>
@@ -376,14 +321,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 34<br>
+<b>id:</b> 34<br>
 <b>st_nm:</b> Uttarakhand
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>34</value>
 				</Data>
 				<Data name='st_nm'>
@@ -393,14 +336,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 35<br>
+<b>id:</b> 35<br>
 <b>st_nm:</b> West Bengal
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>35</value>
 				</Data>
 				<Data name='st_nm'>
@@ -410,14 +351,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 10<br>
+<b>id:</b> 10<br>
 <b>st_nm:</b> Goa
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>10</value>
 				</Data>
 				<Data name='st_nm'>
@@ -427,14 +366,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 14<br>
+<b>id:</b> 14<br>
 <b>st_nm:</b> Jammu &amp; Kashmir
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>14</value>
 				</Data>
 				<Data name='st_nm'>
@@ -444,14 +381,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 15<br>
+<b>id:</b> 15<br>
 <b>st_nm:</b> Jharkhand
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>15</value>
 				</Data>
 				<Data name='st_nm'>
@@ -461,14 +396,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 16<br>
+<b>id:</b> 16<br>
 <b>st_nm:</b> Karnataka
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>16</value>
 				</Data>
 				<Data name='st_nm'>
@@ -478,14 +411,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 17<br>
+<b>id:</b> 17<br>
 <b>st_nm:</b> Kerala
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>17</value>
 				</Data>
 				<Data name='st_nm'>
@@ -495,14 +426,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 27<br>
+<b>id:</b> 27<br>
 <b>st_nm:</b> Punjab
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>27</value>
 				</Data>
 				<Data name='st_nm'>
@@ -512,14 +441,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 28<br>
+<b>id:</b> 28<br>
 <b>st_nm:</b> Rajasthan
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>28</value>
 				</Data>
 				<Data name='st_nm'>
@@ -529,14 +456,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 29<br>
+<b>id:</b> 29<br>
 <b>st_nm:</b> Sikkim
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>29</value>
 				</Data>
 				<Data name='st_nm'>
@@ -546,14 +471,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 31<br>
+<b>id:</b> 31<br>
 <b>st_nm:</b> Telangana
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>31</value>
 				</Data>
 				<Data name='st_nm'>
@@ -563,14 +486,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 18<br>
+<b>id:</b> 18<br>
 <b>st_nm:</b> Lakshadweep
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>18</value>
 				</Data>
 				<Data name='st_nm'>
@@ -580,14 +501,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 8<br>
+<b>id:</b> 8<br>
 <b>st_nm:</b> Dadara &amp; Nagar Havelli
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>8</value>
 				</Data>
 				<Data name='st_nm'>
@@ -597,14 +516,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 9<br>
+<b>id:</b> 9<br>
 <b>st_nm:</b> Daman &amp; Diu
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>9</value>
 				</Data>
 				<Data name='st_nm'>
@@ -614,14 +531,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 36<br>
+<b>id:</b> 36<br>
 <b>st_nm:</b> Odisha
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>36</value>
 				</Data>
 				<Data name='st_nm'>
@@ -631,14 +546,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 25<br>
+<b>id:</b> 25<br>
 <b>st_nm:</b> NCT of Delhi
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>25</value>
 				</Data>
 				<Data name='st_nm'>
@@ -648,14 +561,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 21<br>
+<b>id:</b> 21<br>
 <b>st_nm:</b> Manipur
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>21</value>
 				</Data>
 				<Data name='st_nm'>
@@ -665,14 +576,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 22<br>
+<b>id:</b> 22<br>
 <b>st_nm:</b> Meghalaya
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>22</value>
 				</Data>
 				<Data name='st_nm'>
@@ -682,14 +591,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 23<br>
+<b>id:</b> 23<br>
 <b>st_nm:</b> Mizoram
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>23</value>
 				</Data>
 				<Data name='st_nm'>
@@ -699,14 +606,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 24<br>
+<b>id:</b> 24<br>
 <b>st_nm:</b> Nagaland
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>24</value>
 				</Data>
 				<Data name='st_nm'>
@@ -716,14 +621,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 26<br>
+<b>id:</b> 26<br>
 <b>st_nm:</b> Puducherry
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<styleUrl>#Style2-multi_geometry-4</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>26</value>
 				</Data>
 				<Data name='st_nm'>
@@ -733,14 +636,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 32<br>
+<b>id:</b> 32<br>
 <b>st_nm:</b> Tripura
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>32</value>
 				</Data>
 				<Data name='st_nm'>
@@ -750,14 +651,12 @@
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>cartodb_id:</b> 30<br>
+<b>id:</b> 30<br>
 <b>st_nm:</b> Tamil Nadu
 </div>]]></description>
 			<styleUrl>#Style2-polygon-3-map</styleUrl>
 			<ExtendedData>
-				<Data name='cartodb_id'>
+				<Data name='id'>
 					<value>30</value>
 				</Data>
 				<Data name='st_nm'>
