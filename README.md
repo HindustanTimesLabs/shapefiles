@@ -24,6 +24,7 @@ You'll find a few different file types which can be used to make maps with diffe
 
 ### Cities
 - **city/mumbai/ward** City wards (administrative units). Source: Traced with QGIS from a [BMC Elections map](http://www.bmcelections.com/wards-in-mumbai/).
+- **city/bengaluru/ward** City wards (administrative units). Source: [Open Bangalore](http://openbangalore.org/available-data/).
 - **city/delhi/district** Delhi districts [between 1997 and 2012](https://en.wikipedia.org/wiki/List_of_districts_of_Delhi#Old_List_of_Districts_in_National_Capital_Territory_of_Delhi). Source: [DataMeet thread](https://groups.google.com/forum/#!topic/datameet/_5kMRNbwnXM).
 
 ## Disclaimer
