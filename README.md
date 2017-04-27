@@ -6,7 +6,7 @@ Use these files to make maps.
 You'll find a few different file types which can be used to make maps with different software.
 - **.json** [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON).
 - **.kml** [Keyhole Markup Language](https://en.wikipedia.org/wiki/Keyhole_Markup_Language).
-- **.zip** [Shapefiles](https://en.wikipedia.org/wiki/Shapefile), including the zip file with all three necessary file formats &mdash; *.shp*, *.shx*, and *.dbf*. Sometimes also including *.cpg*, *.prj* and *qpj*.
+- **.zip** [Shapefiles](https://en.wikipedia.org/wiki/Shapefile), including the zip file with all three necessary file formats &mdash; *.shp*, *.shx*, and *.dbf*. Sometimes also including *.cpg*, *.prj* and *.qpj*.
 
 ## Sources
 
