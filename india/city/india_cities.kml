@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="india_cities" id="india_cities">
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="state" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>india_cities</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="city">Agra</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">27.172187</SimpleData>
+		<SimpleData name="lon">78.007819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.007819,27.172187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="city">Ahmedabad</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">23.022868</SimpleData>
+		<SimpleData name="lon">72.572522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.572522,23.022868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="city">Allahabad</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">25.433826</SimpleData>
+		<SimpleData name="lon">81.846377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.846377,25.433826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="city">Amritsar</SimpleData>
+		<SimpleData name="state">Punjab</SimpleData>
+		<SimpleData name="lat">31.63294</SimpleData>
+		<SimpleData name="lon">74.872693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.872693,31.63294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="city">Asansol</SimpleData>
+		<SimpleData name="state">West Bengal</SimpleData>
+		<SimpleData name="lat">23.677213</SimpleData>
+		<SimpleData name="lon">86.950671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>86.950671,23.677213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="city">Aurangabad</SimpleData>
+		<SimpleData name="state">Maharashtra</SimpleData>
+		<SimpleData name="lat">19.872343</SimpleData>
+		<SimpleData name="lon">75.339874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.339874,19.872343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">7</SimpleData>
+		<SimpleData name="city">Bangalore</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">12.96199</SimpleData>
+		<SimpleData name="lon">77.590416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.590416,12.96199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">8</SimpleData>
+		<SimpleData name="city">Bhopal</SimpleData>
+		<SimpleData name="state">Madhya Pradesh</SimpleData>
+		<SimpleData name="lat">23.25109</SimpleData>
+		<SimpleData name="lon">77.40794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.40794,23.25109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">9</SimpleData>
+		<SimpleData name="city">Chennai</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">13.074278</SimpleData>
+		<SimpleData name="lon">80.272171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.272171,13.074278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">10</SimpleData>
+		<SimpleData name="city">Coimbatore</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">11.012039</SimpleData>
+		<SimpleData name="lon">76.961396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.961396,11.012039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">11</SimpleData>
+		<SimpleData name="city">Delhi</SimpleData>
+		<SimpleData name="state">Delhi NCT</SimpleData>
+		<SimpleData name="lat">28.639446</SimpleData>
+		<SimpleData name="lon">77.220937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.220937,28.639446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">12</SimpleData>
+		<SimpleData name="city">Dhanbad</SimpleData>
+		<SimpleData name="state">Jharkhand</SimpleData>
+		<SimpleData name="lat">23.794038</SimpleData>
+		<SimpleData name="lon">86.429271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>86.429271,23.794038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">13</SimpleData>
+		<SimpleData name="city">Durg-Bhilainagar</SimpleData>
+		<SimpleData name="state">Chhattisgarh</SimpleData>
+		<SimpleData name="lat">21.188374</SimpleData>
+		<SimpleData name="lon">81.284878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.284878,21.188374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">14</SimpleData>
+		<SimpleData name="city">Faridabad </SimpleData>
+		<SimpleData name="state">Haryana</SimpleData>
+		<SimpleData name="lat">28.40186</SimpleData>
+		<SimpleData name="lon">77.312197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.312197,28.40186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">15</SimpleData>
+		<SimpleData name="city">Ghaziabad</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">28.662835</SimpleData>
+		<SimpleData name="lon">77.42729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.42729,28.662835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">16</SimpleData>
+		<SimpleData name="city">Gwalior</SimpleData>
+		<SimpleData name="state">Madhya Pradesh</SimpleData>
+		<SimpleData name="lat">26.211624</SimpleData>
+		<SimpleData name="lon">78.182648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.182648,26.211624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">17</SimpleData>
+		<SimpleData name="city">Hyderabad</SimpleData>
+		<SimpleData name="state">Telangana</SimpleData>
+		<SimpleData name="lat">17.374951</SimpleData>
+		<SimpleData name="lon">78.477385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.477385,17.374951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">18</SimpleData>
+		<SimpleData name="city">Indore</SimpleData>
+		<SimpleData name="state">Madhya Pradesh</SimpleData>
+		<SimpleData name="lat">22.718449</SimpleData>
+		<SimpleData name="lon">75.858002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.858002,22.718449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">19</SimpleData>
+		<SimpleData name="city">Jabalpur</SimpleData>
+		<SimpleData name="state">Madhya Pradesh</SimpleData>
+		<SimpleData name="lat">23.178205</SimpleData>
+		<SimpleData name="lon">79.982483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.982483,23.178205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">20</SimpleData>
+		<SimpleData name="city">Jaipur</SimpleData>
+		<SimpleData name="state">Rajasthan</SimpleData>
+		<SimpleData name="lat">26.904738</SimpleData>
+		<SimpleData name="lon">75.786427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.786427,26.904738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">21</SimpleData>
+		<SimpleData name="city">Jamshedpur</SimpleData>
+		<SimpleData name="state">Jharkhand</SimpleData>
+		<SimpleData name="lat">22.801421</SimpleData>
+		<SimpleData name="lon">86.201861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>86.201861,22.801421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">22</SimpleData>
+		<SimpleData name="city">Jodhpur </SimpleData>
+		<SimpleData name="state">Rajasthan</SimpleData>
+		<SimpleData name="lat">26.242625</SimpleData>
+		<SimpleData name="lon">73.025391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.025391,26.242625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">23</SimpleData>
+		<SimpleData name="city">Kannur</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">11.872917</SimpleData>
+		<SimpleData name="lon">75.370619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.370619,11.872917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">24</SimpleData>
+		<SimpleData name="city">Kanpur</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">26.445005</SimpleData>
+		<SimpleData name="lon">80.331857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.331857,26.445005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">25</SimpleData>
+		<SimpleData name="city">Kochi</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">9.921673</SimpleData>
+		<SimpleData name="lon">76.26549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.26549,9.921673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">26</SimpleData>
+		<SimpleData name="city">Kolkata</SimpleData>
+		<SimpleData name="state">West Bengal</SimpleData>
+		<SimpleData name="lat">22.572646</SimpleData>
+		<SimpleData name="lon">88.363895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>88.363895,22.572646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">27</SimpleData>
+		<SimpleData name="city">Kollam</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">8.885084</SimpleData>
+		<SimpleData name="lon">76.593752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.593752,8.885084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">28</SimpleData>
+		<SimpleData name="city">Kozhikode</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">11.251761</SimpleData>
+		<SimpleData name="lon">75.783335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.783335,11.251761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">29</SimpleData>
+		<SimpleData name="city">Lucknow</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">26.838821</SimpleData>
+		<SimpleData name="lon">80.942501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.942501,26.838821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">30</SimpleData>
+		<SimpleData name="city">Ludhiana</SimpleData>
+		<SimpleData name="state">Punjab</SimpleData>
+		<SimpleData name="lat">30.897086</SimpleData>
+		<SimpleData name="lon">75.857357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.857357,30.897086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">31</SimpleData>
+		<SimpleData name="city">Madurai</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">9.92102</SimpleData>
+		<SimpleData name="lon">78.12179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.12179,9.92102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">32</SimpleData>
+		<SimpleData name="city">Malappuram</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">11.070957</SimpleData>
+		<SimpleData name="lon">76.074571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.074571,11.070957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">33</SimpleData>
+		<SimpleData name="city">Meerut</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">28.981238</SimpleData>
+		<SimpleData name="lon">77.701017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.701017,28.981238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">34</SimpleData>
+		<SimpleData name="city">Mumbai</SimpleData>
+		<SimpleData name="state">Maharashtra</SimpleData>
+		<SimpleData name="lat">19.068493</SimpleData>
+		<SimpleData name="lon">72.880505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.880505,19.068493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">35</SimpleData>
+		<SimpleData name="city">Nagpur</SimpleData>
+		<SimpleData name="state">Maharashtra</SimpleData>
+		<SimpleData name="lat">21.153984</SimpleData>
+		<SimpleData name="lon">79.084171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.084171,21.153984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">36</SimpleData>
+		<SimpleData name="city">Nashik</SimpleData>
+		<SimpleData name="state">Maharasthra</SimpleData>
+		<SimpleData name="lat">19.9975</SimpleData>
+		<SimpleData name="lon">73.7898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7898,19.9975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">37</SimpleData>
+		<SimpleData name="city">Patna</SimpleData>
+		<SimpleData name="state">Bihar</SimpleData>
+		<SimpleData name="lat">25.598287</SimpleData>
+		<SimpleData name="lon">85.135144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.135144,25.598287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">38</SimpleData>
+		<SimpleData name="city">Pune</SimpleData>
+		<SimpleData name="state">Maharasthra</SimpleData>
+		<SimpleData name="lat">18.521716</SimpleData>
+		<SimpleData name="lon">73.857118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.857118,18.521716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">39</SimpleData>
+		<SimpleData name="city">Raipur </SimpleData>
+		<SimpleData name="state">Chhattisgarh</SimpleData>
+		<SimpleData name="lat">21.253172</SimpleData>
+		<SimpleData name="lon">81.629198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.629198,21.253172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">40</SimpleData>
+		<SimpleData name="city">Rajkot</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">22.303894</SimpleData>
+		<SimpleData name="lon">70.80216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.80216,22.303894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">41</SimpleData>
+		<SimpleData name="city">Ranchi</SimpleData>
+		<SimpleData name="state">Jharkhand</SimpleData>
+		<SimpleData name="lat">23.351338</SimpleData>
+		<SimpleData name="lon">85.307581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.307581,23.351338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">42</SimpleData>
+		<SimpleData name="city">Srinagar</SimpleData>
+		<SimpleData name="state">Jammu &amp; Kashmir</SimpleData>
+		<SimpleData name="lat">34.09015</SimpleData>
+		<SimpleData name="lon">74.799191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.799191,34.09015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">43</SimpleData>
+		<SimpleData name="city">Surat</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">21.17024</SimpleData>
+		<SimpleData name="lon">72.831061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.831061,21.17024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">44</SimpleData>
+		<SimpleData name="city">Thiruvananthapuram</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">8.526786</SimpleData>
+		<SimpleData name="lon">76.938081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.938081,8.526786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">45</SimpleData>
+		<SimpleData name="city">Thrissur</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">10.524207</SimpleData>
+		<SimpleData name="lon">76.215694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.215694,10.524207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">46</SimpleData>
+		<SimpleData name="city">Vadodara</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">22.307159</SimpleData>
+		<SimpleData name="lon">73.181219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.181219,22.307159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">47</SimpleData>
+		<SimpleData name="city">Varanasi</SimpleData>
+		<SimpleData name="state">Uttar Pradesh</SimpleData>
+		<SimpleData name="lat">25.319427</SimpleData>
+		<SimpleData name="lon">82.973768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.973768,25.319427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">48</SimpleData>
+		<SimpleData name="city">Vasai-Virar City</SimpleData>
+		<SimpleData name="state">Maharasthra</SimpleData>
+		<SimpleData name="lat">19.387647</SimpleData>
+		<SimpleData name="lon">72.839545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.839545,19.387647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">49</SimpleData>
+		<SimpleData name="city">Vijayawada</SimpleData>
+		<SimpleData name="state">Andhra Pradesh</SimpleData>
+		<SimpleData name="lat">16.5062</SimpleData>
+		<SimpleData name="lon">80.648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.648,16.5062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">50</SimpleData>
+		<SimpleData name="city">Visakhapatnam</SimpleData>
+		<SimpleData name="state">Andhra Pradesh</SimpleData>
+		<SimpleData name="lat">17.675749</SimpleData>
+		<SimpleData name="lon">83.250835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.250835,17.675749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">51</SimpleData>
+		<SimpleData name="city">Thanjavur</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">10.786999</SimpleData>
+		<SimpleData name="lon">79.137827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.137827,10.786999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">52</SimpleData>
+		<SimpleData name="city">Kasargod</SimpleData>
+		<SimpleData name="state">Kerala</SimpleData>
+		<SimpleData name="lat">12.43867</SimpleData>
+		<SimpleData name="lon">75.201229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.201229,12.43867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">53</SimpleData>
+		<SimpleData name="city">Bhubaneswar</SimpleData>
+		<SimpleData name="state">Orissa</SimpleData>
+		<SimpleData name="lat">20.296059</SimpleData>
+		<SimpleData name="lon">85.82454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.82454,20.296059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">54</SimpleData>
+		<SimpleData name="city">Salem</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">11.664325</SimpleData>
+		<SimpleData name="lon">78.146014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.146014,11.664325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">55</SimpleData>
+		<SimpleData name="city">Bhatkal</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">13.997762</SimpleData>
+		<SimpleData name="lon">74.540469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.540469,13.997762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">56</SimpleData>
+		<SimpleData name="city">Chikkamagaluru</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">13.404507</SimpleData>
+		<SimpleData name="lon">75.620809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.620809,13.404507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">57</SimpleData>
+		<SimpleData name="city">Sambalpur</SimpleData>
+		<SimpleData name="state">Orissa</SimpleData>
+		<SimpleData name="lat">21.466872</SimpleData>
+		<SimpleData name="lon">83.981166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.981166,21.466872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">58</SimpleData>
+		<SimpleData name="city">Bailur, Udupi</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">13.282641</SimpleData>
+		<SimpleData name="lon">74.925992</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.925992,13.282641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">59</SimpleData>
+		<SimpleData name="city">Kodagu</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">12.337494</SimpleData>
+		<SimpleData name="lon">75.806908</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.806908,12.337494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">60</SimpleData>
+		<SimpleData name="city">Alwar</SimpleData>
+		<SimpleData name="state">Rajasthan</SimpleData>
+		<SimpleData name="lat">27.552991</SimpleData>
+		<SimpleData name="lon">76.634573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.634573,27.552991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">61</SimpleData>
+		<SimpleData name="city">Pavagada</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">14.1031</SimpleData>
+		<SimpleData name="lon">77.280742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.280742,14.1031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">62</SimpleData>
+		<SimpleData name="city">Burdwan</SimpleData>
+		<SimpleData name="state">West Bengal</SimpleData>
+		<SimpleData name="lat">23.232421</SimpleData>
+		<SimpleData name="lon">87.861479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>87.861479,23.232421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">63</SimpleData>
+		<SimpleData name="city">Moreh</SimpleData>
+		<SimpleData name="state">Manipur</SimpleData>
+		<SimpleData name="lat">24.251281</SimpleData>
+		<SimpleData name="lon">94.301304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>94.301304,24.251281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">64</SimpleData>
+		<SimpleData name="city">Porvorim and Ponda</SimpleData>
+		<SimpleData name="state">Goa</SimpleData>
+		<SimpleData name="lat">15.537727</SimpleData>
+		<SimpleData name="lon">73.831614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.831614,15.537727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">65</SimpleData>
+		<SimpleData name="city">Kolar</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">13.135745</SimpleData>
+		<SimpleData name="lon">78.132561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.132561,13.135745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">66</SimpleData>
+		<SimpleData name="city">Belagavi</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">15.849695</SimpleData>
+		<SimpleData name="lon">74.497674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.497674,15.849695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">67</SimpleData>
+		<SimpleData name="city">Hoshangabad</SimpleData>
+		<SimpleData name="state">Madhya Pradesh</SimpleData>
+		<SimpleData name="lat">22.744108</SimpleData>
+		<SimpleData name="lon">77.736967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.736967,22.744108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">68</SimpleData>
+		<SimpleData name="city">Kalburgi</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">17.314739</SimpleData>
+		<SimpleData name="lon">76.824343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.824343,17.314739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">69</SimpleData>
+		<SimpleData name="city">Raichur</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">16.212003</SimpleData>
+		<SimpleData name="lon">77.343928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.343928,16.212003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">70</SimpleData>
+		<SimpleData name="city">Porbandar</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">21.641707</SimpleData>
+		<SimpleData name="lon">69.629265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.629265,21.641707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">71</SimpleData>
+		<SimpleData name="city">Chitradurga</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">14.230559</SimpleData>
+		<SimpleData name="lon">76.398454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.398454,14.230559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">72</SimpleData>
+		<SimpleData name="city">Faridabad</SimpleData>
+		<SimpleData name="state">Haryana</SimpleData>
+		<SimpleData name="lat">28.408912</SimpleData>
+		<SimpleData name="lon">77.317789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317789,28.408912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">73</SimpleData>
+		<SimpleData name="city">Dadar, Mumbai</SimpleData>
+		<SimpleData name="state">Maharashtra</SimpleData>
+		<SimpleData name="lat">19.021324</SimpleData>
+		<SimpleData name="lon">72.842418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.842418,19.021324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">74</SimpleData>
+		<SimpleData name="city">Gurugram</SimpleData>
+		<SimpleData name="state">Haryana</SimpleData>
+		<SimpleData name="lat">28.459497</SimpleData>
+		<SimpleData name="lon">77.026638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.026638,28.459497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">75</SimpleData>
+		<SimpleData name="city">Vellore</SimpleData>
+		<SimpleData name="state">Tamil Nadu</SimpleData>
+		<SimpleData name="lat">12.916517</SimpleData>
+		<SimpleData name="lon">79.132499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.132499,12.916517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">76</SimpleData>
+		<SimpleData name="city">Guwahati</SimpleData>
+		<SimpleData name="state">Assam</SimpleData>
+		<SimpleData name="lat">26.144517</SimpleData>
+		<SimpleData name="lon">91.736237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>91.736237,26.144517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">77</SimpleData>
+		<SimpleData name="city">Kothur</SimpleData>
+		<SimpleData name="state">Telangana</SimpleData>
+		<SimpleData name="lat">17.147351</SimpleData>
+		<SimpleData name="lon">78.2889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2889,17.147351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">78</SimpleData>
+		<SimpleData name="city">Bikaner</SimpleData>
+		<SimpleData name="state">Rajasthan</SimpleData>
+		<SimpleData name="lat">28.022935</SimpleData>
+		<SimpleData name="lon">73.311916</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.311916,28.022935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">79</SimpleData>
+		<SimpleData name="city">Bhilwara</SimpleData>
+		<SimpleData name="state">Rajasthan</SimpleData>
+		<SimpleData name="lat">25.321377</SimpleData>
+		<SimpleData name="lon">74.586953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.586953,25.321377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">80</SimpleData>
+		<SimpleData name="city">Mysuru</SimpleData>
+		<SimpleData name="state">Karnataka</SimpleData>
+		<SimpleData name="lat">12.29581</SimpleData>
+		<SimpleData name="lon">76.639381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.639381,12.29581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">81</SimpleData>
+		<SimpleData name="city">Ramayampet</SimpleData>
+		<SimpleData name="state">Telangana</SimpleData>
+		<SimpleData name="lat">18.115851</SimpleData>
+		<SimpleData name="lon">78.432562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.432562,18.115851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">82</SimpleData>
+		<SimpleData name="city">Bharuch</SimpleData>
+		<SimpleData name="state">Gujarat</SimpleData>
+		<SimpleData name="lat">21.705136</SimpleData>
+		<SimpleData name="lon">72.995875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.995875,21.705136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">83</SimpleData>
+		<SimpleData name="city">Hathigaon</SimpleData>
+		<SimpleData name="state">Assam</SimpleData>
+		<SimpleData name="lat">26.133861</SimpleData>
+		<SimpleData name="lon">91.780662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>91.780662,26.133861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#india_cities">
+		<SimpleData name="cartodb_id">84</SimpleData>
+		<SimpleData name="city">Rudrapur</SimpleData>
+		<SimpleData name="state">Uttarakhand</SimpleData>
+		<SimpleData name="lat">28.987508</SimpleData>
+		<SimpleData name="lon">79.414121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.414121,28.987508</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
