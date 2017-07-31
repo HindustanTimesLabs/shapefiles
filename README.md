@@ -11,7 +11,7 @@ You'll find a few different file types which can be used to make maps with diffe
 ## Sources
 
 ### All-India
-- **india/country/india.ext ** - Boundary of India including disputed territories.
+- **india/country/india.ext** - Boundary of India including disputed territories.
 - **india/city/india_cities.ext** - Coordinates of a bunch of mostly large cities.
 - **india/district/india_2011_district** - Administrive districts of India as of the 2011 Census. Source: [DataMeet](https://github.com/datameet/maps/tree/master/Districts/Census_2011).
 - **india/parliament/india_2014_parliament** - Lok Sabha parliamentary constituencies from 2014. Source: [DataMeet](https://github.com/datameet/maps/tree/master/parliamentary-constituencies).
