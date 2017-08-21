@@ -1,5 +1,3 @@
-» [state_ut](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut)/[gujarat](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut/gujarat)/[assembly](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut/gujarat/assembly)
-
 ### TODO
 Add Surat city and Ahmedabad city constituencies to map. [See here for a drawing](http://www.mapsofindia.com/assemblypolls/gujarat/gujarat-assembly-result.jpg).
 
