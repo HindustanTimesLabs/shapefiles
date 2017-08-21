@@ -1,0 +1,3 @@
+>> [state_ut](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut)/[gujarat](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut/gujarat)/[assembly](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut/gujarat/assembly)
+
+The most recent delimitation of Gujarat assembly constituencies came from the 2002 Delimitation Commission, and were approved by President Pratibha Patil on 19 February, 2008. Sources: [Hindu Business Line](http://www.thehindubusinessline.com/news/national/delimitation-might-stump-political-parties-in-2012-gujarat-polls/article3980899.ece) [Wikipedia](https://en.wikipedia.org/wiki/Delimitation_Commission_of_India)
