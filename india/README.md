@@ -1,5 +1,0 @@
-# All India
-
-### Sources
-
-### Delimitation
