@@ -11,7 +11,9 @@ Some districts have been renamed since the 2011 Census was conducted.
 - Lakhimpur Kheri, renamed from just Kheri.
 
 Four districts have been added to UP since the 2011 Census was conducted.
-- Sambhal, created September 2011 as Bhimnagar, renamed July 2012 [[Source]](https://en.wikipedia.org/wiki/Sambhal_district#Creation)
-- Shamli, created September 2011 as Prabudh Nagar, renamed July 2012 [[Source]](https://en.wikipedia.org/wiki/Shamli_district)
-- Hapur, created September 2011 as Panchsheel Nagar, renamed July 2012 [[Source]](https://en.wikipedia.org/wiki/Hapur_district#History)
-- Amethi, created July 2010 as Chhatrapati Shahuji Maharaj Nagar, renamed 2012 [[Source]](https://en.wikipedia.org/wiki/Amethi_district#General_characteristics_of_the_district)
+| district | created        | original_name                     | renamed   | carved_out_of            | source                                                                                                                      | 
+|----------|----------------|-----------------------------------|-----------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------| 
+| Sambhal  | September 2011 | Bhimnagar                         | July 2012 | Budaun and Moradabad     | [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal_district#Creation) [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal) | 
+| Shamli   | September 2011 | Prabudh Nagar                     | July 2012 | Muzaffarnagar            | [[Wikipedia]](https://en.wikipedia.org/wiki/Shamli_district)                                                                | 
+| Hapur    | September 2011 | Panchsheel Nagar                  | July 2012 | Ghaziabad                | [[Wikipedia]](https://en.wikipedia.org/wiki/Hapur_district#History)                                                         | 
+| Amethi   | July 2010      | Chhatrapati Shahuji Maharaj Nagar | 2012      | Sultanpur and Rae Bareli | [[Wikipedia]](https://en.wikipedia.org/wiki/Amethi_district#General_characteristics_of_the_district)                        | 
