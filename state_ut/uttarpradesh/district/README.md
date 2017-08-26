@@ -11,6 +11,7 @@ Some districts have been renamed since the 2011 Census was conducted.
 - Lakhimpur Kheri, renamed from just Kheri.
 
 Four districts have been added to UP since the 2011 Census was conducted.
+
 | district | created        | original_name                     | renamed   | carved_out_of            | source                                                                                                                      | 
 |----------|----------------|-----------------------------------|-----------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------| 
 | Sambhal  | September 2011 | Bhimnagar                         | July 2012 | Budaun and Moradabad     | [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal_district#Creation) [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal) | 
