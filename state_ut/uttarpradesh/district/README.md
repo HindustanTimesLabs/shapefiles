@@ -22,3 +22,20 @@ Four districts have been added to UP since the 2011 Census was conducted.
 ![UP with 71 districts for 2011 Census](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/uttarpradesh_district_2011.png "UP districts 2011")
 
 ![UP with 75 districts after 2011 Census](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/uttarpradesh_district.png "UP districts post-2011")
+
+### To-do
+
+Determine if the updated shapes of Bahraich and Shravasti are correct, or if there was an error in the Shristi(GIS-UP) shapefiles.
+
+![Bahraich-Shravasti error](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/shristi_gis_up_bahraich_shravasti.png "Bahraich-Shravasti error")
+
+On 25 August, 2017, I sent an email to the National Informatics Centre in Lucknow (support-up@nic.in):
+
+>Greetings,
+>
+>I work for the Hindustan Times in New Delhi, India. I noticed what I believe is an error in the KML files of Uttar Pradesh districts on the Srishti(GIS-UP) map (http://gis.up.nic.in:8080/srishti/election2017/). Bahraich district seems to have subsumed a portion of Shravasti district to the east. I have attached a screenshot.
+>
+>Either Bahraich district actually grew since the 2011 Census, or your shapefiles are slightly incorrect. Please let me know what happened.
+>
+>Thank you and regards,
+>Harry
