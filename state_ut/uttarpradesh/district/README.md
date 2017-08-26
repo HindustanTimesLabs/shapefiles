@@ -14,7 +14,7 @@ Four districts have been added to UP since the 2011 Census was conducted.
 
 | district | created        | original_name                     | renamed   | carved_out_of            | source                                                                                                                      | 
 |----------|----------------|-----------------------------------|-----------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------| 
+| Amethi   | July 2010      | Chhatrapati Shahuji Maharaj Nagar | 2012      | Sultanpur and Rae Bareli | [[Wikipedia]](https://en.wikipedia.org/wiki/Amethi_district#General_characteristics_of_the_district)                        | 
+| Hapur    | September 2011 | Panchsheel Nagar                  | July 2012 | Ghaziabad                | [[Wikipedia]](https://en.wikipedia.org/wiki/Hapur_district#History)                                                         | 
 | Sambhal  | September 2011 | Bhimnagar                         | July 2012 | Budaun and Moradabad     | [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal_district#Creation) [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal) | 
 | Shamli   | September 2011 | Prabudh Nagar                     | July 2012 | Muzaffarnagar            | [[Wikipedia]](https://en.wikipedia.org/wiki/Shamli_district)                                                                | 
-| Hapur    | September 2011 | Panchsheel Nagar                  | July 2012 | Ghaziabad                | [[Wikipedia]](https://en.wikipedia.org/wiki/Hapur_district#History)                                                         | 
-| Amethi   | July 2010      | Chhatrapati Shahuji Maharaj Nagar | 2012      | Sultanpur and Rae Bareli | [[Wikipedia]](https://en.wikipedia.org/wiki/Amethi_district#General_characteristics_of_the_district)                        | 
