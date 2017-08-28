@@ -1,7 +1,7 @@
 # Uttar Pradesh Districts
 
 ### Sources
-- **uttarpradesh_district.ext** 75 districts (four were not included in the 2011 Census) scraped from [Shristi(GIS-UP)](http://gis.up.nic.in/srishti/election2017/). [View the scraper's repository](https://github.com/HindustanTimesLabs/up-shape-scrape). 
+- **uttarpradesh_district.ext** 75 districts (four were not included in the 2011 Census) scraped from [Shristi(GIS-UP)](http://gis.up.nic.in/srishti/election2017/). [View the scraper's repository](https://github.com/HindustanTimesLabs/up-shape-scrape).
 - **uttarpradesh_district_2011.ext** 71 districts from the 2011 Census. Started with shapefile from [DataMeet](https://github.com/datameet/maps/tree/master/Survey-of-India-Index-Maps/Boundaries), then filtered only Uttar Pradesh districts using [mapshaper](http://mapshaper.org/).
 
 ### Delimitation
