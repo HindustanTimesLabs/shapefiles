@@ -19,9 +19,7 @@ Four districts have been added to UP since the 2011 Census was conducted.
 | Sambhal  | September 2011 | Bhimnagar                         | July 2012 | Budaun and Moradabad     | [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal_district#Creation) [[Wikipedia]](https://en.wikipedia.org/wiki/Sambhal) | 
 | Shamli   | September 2011 | Prabudh Nagar                     | July 2012 | Muzaffarnagar            | [[Wikipedia]](https://en.wikipedia.org/wiki/Shamli_district)                                                                | 
 
-![UP with 71 districts for 2011 Census](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/uttarpradesh_district_2011.png "UP districts 2011")
-
-![UP with 75 districts after 2011 Census](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/uttarpradesh_district.png "UP districts post-2011")
+![UP district changes](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/uttarpradesh/district/img/uttarpradesh_district_changes.png "UP districts changes from 2011")
 
 ### To-do
 
