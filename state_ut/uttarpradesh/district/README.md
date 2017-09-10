@@ -9,11 +9,11 @@
 ### Delimitation
 Some districts have been renamed since the 2011 Census was conducted.
 
-| district         | renamed  | original_name       | source                                                              | 
-|------------------|----------|---------------------|---------------------------------------------------------------------| 
-| Amroha           | 2012     | Jyotiba Phule Nagar | [Wikipedia](https://en.wikipedia.org/wiki/Amroha_district#History)  | 
-| Kasganj          | 2012     | Kanshiram Nagar     | [Wikipedia](https://en.wikipedia.org/wiki/Kasganj_district#History) | 
-| Lakhimpur Kheri  | ?        | Kheri               | ?                                                                   |
+| district         | previous_name       | renamed  | source                                                              | 
+|------------------|---------------------|----------|---------------------------------------------------------------------| 
+| Amroha           | Jyotiba Phule Nagar | 2012     | [Wikipedia](https://en.wikipedia.org/wiki/Amroha_district#History)  | 
+| Kasganj          | Kanshiram Nagar     | 2012     | [Wikipedia](https://en.wikipedia.org/wiki/Kasganj_district#History) | 
+| Lakhimpur Kheri  | Kheri               | ?        | ?                                                                   |
 
 Four districts have been added to UP since the 2011 Census was conducted.
 
