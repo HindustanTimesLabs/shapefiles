@@ -1,76 +1,76 @@
-name,description
-MUZAFFARNAGAR,2
-Bulandsahar,11
-GAUTAM BUDDHA NAGAR,10
-MEERUT,7
-AGRA,15
-GHAZIABAD,9
-SAHARANPUR,1
-ALIGARH,12
-MATHURA,14
-FIROZABAD,16
-MAINPURI,18
-MAHAMAYA NAGAR,13
-BAREILLY,20
-ETAH,17
-BUDAUN,19
-SHAHJAHANPUR,22
-PILIBHIT,21
-MORADABAD,4
-KANPUR NAGAR,34
-RAMPUR,5
-Amroha,6
-BIJNOR,3
-KANPUR DEHAT,33
-ETAWAH,31
-FARRUKHABAD,29
-ALLAHABAD,45
-KANNAUJ,30
-AURAIYA,32
-FATEHPUR,42
-KAUSHAMBI,44
-PRATAPGARH,43
-JHANSI,36
-JALAUN,35
-LALITPUR,37
-HAMIRPUR,38
-MAHOBA,39
-BANDA,40
-VARANASI,67
-CHITRAKOOT,41
-JAUNPUR,64
-GHAZIPUR,65
-CHANDAULI,66
-MIRZAPUR,69
-SONBHADRA,70
-SANT RAVIDAS NAGAR,68
-MAU,62
-AZAMGARH,61
-BALLIA,63
-MAHARAJGANJ,57
-GORAKHPUR,58
-DEORIA,60
-KUSHINAGAR,59
-BASTI,55
-RAE BARELI,28
-SITAPUR,24
-SANT KABIR NAGAR,56
-HARDOI,25
-SIDDHARTHNAGAR,54
-LUCKNOW,27
-SHRAWASTI,51
-UNNAO,26
-BAHRAICH,50
-SULTANPUR,49
-GONDA,53
-FAIZABAD,47
-LAKHIMPUR KHERI,23
-Kasganj,71
-BALRAMPUR,52
-AMETHI,72
-AMBEDKAR NAGAR,70
-HAPUR,73
-BARABANKI,46
-SHAMLI,74
-BAGHPAT,8
-SAMBHAL,75
+unique_id,district,state,ST_CEN_CD,DT_CEN_CD,censuscode
+15,Agra,Uttar Pradesh,9,15,146
+20,Bareilly,Uttar Pradesh,9,19,150
+17,Etah,Uttar Pradesh,9,70,201
+22,Shahjahanpur,Uttar Pradesh,9,21,152
+21,Pilibhit,Uttar Pradesh,9,20,151
+45,Allahabad,Uttar Pradesh,9,44,175
+43,Pratapgarh,Uttar Pradesh,9,42,173
+36,Jhansi,Uttar Pradesh,9,35,166
+35,Jalaun,Uttar Pradesh,9,34,165
+64,Jaunpur,Uttar Pradesh,9,63,194
+69,Mirzapur,Uttar Pradesh,9,68,199
+70,Sonbhadra,Uttar Pradesh,9,69,200
+61,Azamgarh,Uttar Pradesh,9,60,191
+58,Gorakhpur,Uttar Pradesh,9,57,188
+59,Kushinagar,Uttar Pradesh,9,58,189
+55,Basti,Uttar Pradesh,9,54,185
+24,Sitapur,Uttar Pradesh,9,23,154
+26,Unnao,Uttar Pradesh,9,25,156
+49,Sultanpur,Uttar Pradesh,9,48,179
+52,Balrampur,Uttar Pradesh,9,51,182
+72,Amethi,Uttar Pradesh,9,NA,NA
+46,Barabanki,Uttar Pradesh,9,45,176
+50,Bahraich,Uttar Pradesh,9,49,180
+41,Chitrakoot,Uttar Pradesh,9,40,171
+38,Hamirpur,Uttar Pradesh,9,37,168
+39,Mahoba,Uttar Pradesh,9,38,169
+40,Banda,Uttar Pradesh,9,39,170
+8,Baghpat,Uttar Pradesh,9,8,139
+34,Kanpur Nagar,Uttar Pradesh,9,33,164
+56,Sant Kabir Nagar,Uttar Pradesh,9,55,186
+9,Ghaziabad,Uttar Pradesh,9,9,140
+44,Kaushambi,Uttar Pradesh,9,43,174
+2,Muzaffarnagar,Uttar Pradesh,9,2,133
+11,Bulandshahr,Uttar Pradesh,9,11,142
+10,Gautam Buddha Nagar,Uttar Pradesh,9,10,141
+7,Meerut,Uttar Pradesh,9,7,138
+1,Saharanpur,Uttar Pradesh,9,1,132
+12,Aligarh,Uttar Pradesh,9,12,143
+14,Mathura,Uttar Pradesh,9,14,145
+16,Firozabad,Uttar Pradesh,9,16,147
+18,Mainpuri,Uttar Pradesh,9,17,148
+13,Mahamaya Nagar,Uttar Pradesh,9,13,144
+19,Budaun,Uttar Pradesh,9,18,149
+4,Moradabad,Uttar Pradesh,9,4,135
+5,Rampur,Uttar Pradesh,9,5,136
+6,Amroha,Uttar Pradesh,9,6,137
+3,Bijnor,Uttar Pradesh,9,3,134
+33,Kanpur Dehat,Uttar Pradesh,9,32,163
+31,Etawah,Uttar Pradesh,9,30,161
+29,Farrukhabad,Uttar Pradesh,9,28,159
+30,Kannauj,Uttar Pradesh,9,29,160
+32,Auraiya,Uttar Pradesh,9,31,162
+37,Lalitpur,Uttar Pradesh,9,36,167
+67,Varanasi,Uttar Pradesh,9,66,197
+65,Ghazipur,Uttar Pradesh,9,64,195
+66,Chandauli,Uttar Pradesh,9,65,196
+68,Sant Ravi Das Nagar(bhadohi),Uttar Pradesh,9,67,198
+62,Mau,Uttar Pradesh,9,61,192
+63,Ballia,Uttar Pradesh,9,62,193
+57,Maharajganj,Uttar Pradesh,9,56,187
+60,Deoria,Uttar Pradesh,9,59,190
+28,Rae Bareli,Uttar Pradesh,9,27,158
+25,Hardoi,Uttar Pradesh,9,24,155
+54,Siddharth Nagar,Uttar Pradesh,9,53,184
+27,Lucknow,Uttar Pradesh,9,26,157
+47,Faizabad,Uttar Pradesh,9,46,177
+71,Kasganj,Uttar Pradesh,9,71,202
+48,Ambedkar Nagar,Uttar Pradesh,9,47,178
+73,Hapur,Uttar Pradesh,9,NA,NA
+74,Shamli,Uttar Pradesh,9,NA,NA
+75,Sambhal,Uttar Pradesh,9,NA,NA
+42,Fatehpur,Uttar Pradesh,9,41,172
+53,Gonda,Uttar Pradesh,9,52,183
+23,Lakhimpur Kheri,Uttar Pradesh,9,22,153
+51,Shrawasti,Uttar Pradesh,9,50,181
