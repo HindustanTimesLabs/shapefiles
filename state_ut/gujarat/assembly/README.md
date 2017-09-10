@@ -1,5 +1,7 @@
 # Gujarat Legislative Assembly Constituencies
 
+![Gujarat legislative assembly map](https://raw.githubusercontent.com/HindustanTimesLabs/shapefiles/master/state_ut/gujarat/assembly/img/gujarat_AC.png "Gujarat legislative assembly map")
+
 ### Sources
 This map was largely taken from the [KML file](http://psleci.nic.in/kml/GUJARAT-AC.zip) in the Election Commission's [polling station locations site](http://psleci.nic.in/). However, that file did not contain constituencies 160-167, from Surat city, and 45-56, from Ahmedabad city. Those additional constituencies were drawn in CartoDB and QGIS from these images: [[1]](http://www.mapsofindia.com/assemblypolls/gujarat/gujarat-assembly-result.jpg) [[2]](http://www.mapsofindia.com/parliamentaryconstituencies/gujarat/images/ahmedabad-west-parliamentary-map.jpg) [[3]](https://ceo.gujarat.gov.in/AC_details.aspx?dno=22).
 
