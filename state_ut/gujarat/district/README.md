@@ -1,7 +1,7 @@
 # Gujarat Districts
 
 ### Sources
-- **uttarpradesh_district.ext** 33 districts (seven were not included in the 2011 Census).
+- **gujarat_district.ext** 33 districts (seven were not included in the 2011 Census). *I'M STILL LOOKING FOR THESE!*
 - **gujarat_district_2011.ext** 26 districts from the 2011 Census. Source [DataMeet](https://github.com/datameet/maps/tree/master/Districts/Census_2011).
 
 ### Delimitation
